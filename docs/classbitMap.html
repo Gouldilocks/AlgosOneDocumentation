@@ -68,6 +68,11 @@ $(function() {
 <div class="title">bitMap Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>wall-space manager  
+ <a href="classbitMap.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="bitMap_8h_source.html">bitMap.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -99,8 +104,7 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>print_bitMap</b> ()</
 void&#160;</td><td class="memItemRight" valign="bottom"><b>move_vertical</b> (int &amp;shift, <a class="el" href="classpicture.html">picture</a> &amp;pic)</td></tr>
 <tr class="separator:a478eb438cdb30214c4719c61c6b95329"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8323893e08803f7966f56720a75c07bc"><td class="memItemLeft" align="right" valign="top"><a id="a8323893e08803f7966f56720a75c07bc"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classbitMap.html#a8323893e08803f7966f56720a75c07bc">move_horizontal</a> (int &amp;shift, <a class="el" href="classpicture.html">picture</a> &amp;pic)</td></tr>
-<tr class="memdesc:a8323893e08803f7966f56720a75c07bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">needs to have more data on picture to select (width and height not enough to determine specific coordinates) <br /></td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>move_horizontal</b> (int &amp;shift, <a class="el" href="classpicture.html">picture</a> &amp;pic)</td></tr>
 <tr class="separator:a8323893e08803f7966f56720a75c07bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ace36c42ea59c5b64ee8542af656283d3"><td class="memItemLeft" align="right" valign="top"><a id="ace36c42ea59c5b64ee8542af656283d3"></a>
 int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classbitMap.html#ace36c42ea59c5b64ee8542af656283d3">get_x</a> ()</td></tr>
@@ -122,7 +126,12 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>free_spaces</b> ()</td
 <a class="el" href="classbitMap.html">bitMap</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>operator=</b> (const <a class="el" href="classbitMap.html">bitMap</a> &amp;)</td></tr>
 <tr class="separator:ac68b1ba9bbd781468b7606aa4deae1e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<hr/>The documentation for this class was generated from the following files:<ul>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>wall-space manager </p>
+<pre class="fragment">The bitMap class will keep track of the status of the space on our wall.
+</pre><p> This is done by creating a 2d bit vector that keeps track of each pixel. It helps keep track of which positions have been taken up and where the free space is. </p><dl class="section author"><dt>Author</dt><dd>Ashwin Rahesh </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>Feb 2021 </dd></dl>
+</div><hr/>The documentation for this class was generated from the following files:<ul>
 <li><a class="el" href="bitMap_8h_source.html">bitMap.h</a></li>
 <li>bitMap.cpp</li>
 </ul>

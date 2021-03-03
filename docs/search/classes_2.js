@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['dir_17',['DIR',['../structDIR.html',1,'']]],
-  ['dirent_18',['dirent',['../structdirent.html',1,'']]]
+  ['dir_43',['DIR',['../structDIR.html',1,'']]],
+  ['dirent_44',['dirent',['../structdirent.html',1,'']]]
 ];
