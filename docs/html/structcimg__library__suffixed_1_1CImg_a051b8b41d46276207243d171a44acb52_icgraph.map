@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::xyYtoXYZ" name="cimg_library_suffixed::CImg::xyYtoXYZ">
-<area shape="rect" id="node1" title="Convert pixel values from xyY pixels to XYZ color spaces." alt="" coords="256,50,417,91"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a18a1ab4bf511a39060930734018b00d9" title="Convert pixel values from xyY pixels to XYZ color spaces \newinstance." alt="" coords="26,5,187,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a4120b423486997772fc643dc6597381e" title="Convert pixel values from xyY to RGB color spaces." alt="" coords="5,86,208,127"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::cimg::number_filename" name="cimg_library_suffixed::cimg::number_filename">
-<area shape="rect" id="node1" title="Generate a numbered version of a filename." alt="" coords="245,108,429,149"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#adb165b37ac226a1c73a96cb1b5827d2e" title="Save image as a file." alt="" coords="17,5,186,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#a7186fe44f8d6ce58583e3177ff802445" title="Save list into a file." alt="" coords="5,71,197,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#aad5afe8b913e276dd281255dd787b4ba" title="Save list as a gzipped file, using external tool &#39;gzip&#39;." alt="" coords="21,137,182,193"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImgList.html#a62700a17bb0af63522c732b9d1a15325" title="Save list as a TIFF file." alt="" coords="21,217,182,273"/>
-</map>

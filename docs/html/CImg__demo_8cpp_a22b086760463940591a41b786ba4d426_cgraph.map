@@ -1,7 +1,0 @@
-<map id="item_virtual_landscape" name="item_virtual_landscape">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,180,73"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#aae5df5731fe5a367cec402071108c11c" title="Return the maximum between three values." alt="" coords="228,5,389,47"/>
-<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#a091c508a646a5459c00aa2b5ac9ea5e5" title="Return the minimum between three values." alt="" coords="228,71,389,112"/>
-<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="437,5,599,47"/>
-<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#ad5459593e7f8a4066cb22ad63de8e92d" title="Return the minimum between four values." alt="" coords="437,71,599,112"/>
-</map>

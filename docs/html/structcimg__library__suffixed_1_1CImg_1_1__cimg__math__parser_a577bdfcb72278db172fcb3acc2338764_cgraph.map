@@ -1,9 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_cimg_math_parser::mp_memcopy" name="cimg_library_suffixed::CImg::_cimg_math_parser::mp_memcopy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,123,205,179"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#ae8198cca1b736e4cd7cd7294e1f87973" title=" " alt="" coords="253,5,453,61"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#aa9907f01c6e93aa5f46e00cf0d75c5c1" title=" " alt="" coords="253,85,453,141"/>
-<area shape="rect" id="node6" href="$namespacecimg__library__suffixed_1_1cimg.html#a0852e9ad458e82d2c003844cd92bdb8a" title="Return absolute value of a value." alt="" coords="273,166,434,207"/>
-<area shape="rect" id="node7" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="273,231,434,273"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a2d7b769d447c0451a2f43c77e997beff" title="Return the number of image columns." alt="" coords="501,13,663,54"/>
-<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#afcc02428c9b7d9100e1674369d25cc40" title="Return the modulo of a value." alt="" coords="501,93,663,134"/>
-</map>

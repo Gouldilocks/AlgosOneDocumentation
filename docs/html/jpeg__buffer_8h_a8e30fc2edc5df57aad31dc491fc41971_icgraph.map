@@ -1,7 +1,0 @@
-<map id="fill_minput_buffer" name="fill_minput_buffer">
-<area shape="rect" id="node1" title=" " alt="" coords="743,5,879,32"/>
-<area shape="rect" id="node2" href="$jpeg__buffer_8h.html#a42d762fece7c78f45cfb5707ba6a8c95" title=" " alt="" coords="391,5,508,32"/>
-<area shape="rect" id="node5" href="$jpeg__buffer_8h.html#a9e202a36abc487f6ddc0e92518c10e50" title=" " alt="" coords="556,31,695,57"/>
-<area shape="rect" id="node3" href="$jpeg__buffer_8h.html#a2911b60ba8d7fc82c5f343d096892826" title="Load image from a jpeg&#45;coded memory buffer." alt="" coords="184,5,343,32"/>
-<area shape="rect" id="node4" href="$jpeg__buffer_8h.html#aab417ca7a2e45e43aa317f26bb3ebcb7" title="Load image from a jpeg&#45;coded memory buffer (in&#45;place version)" alt="" coords="5,5,136,32"/>
-</map>

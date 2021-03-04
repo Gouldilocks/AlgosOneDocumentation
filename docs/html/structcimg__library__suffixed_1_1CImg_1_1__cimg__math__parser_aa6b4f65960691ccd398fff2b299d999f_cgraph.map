@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_cimg_math_parser::_mp_vargkth" name="cimg_library_suffixed::CImg::_cimg_math_parser::_mp_vargkth">
-<area shape="rect" id="node1" title=" " alt="" coords="5,97,205,153"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a60c895ccdb84e7ccdd884ff61bab29f0" title="Cut (i.e. clamp) value in specified interval." alt="" coords="268,5,429,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a7be21c881dc4b1882fe90300d159ebb3" title="Return a shared&#45;memory image referencing a range of pixels of the image instance." alt="" coords="253,71,444,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a36aae980a6c3c96c3fcef32cd93f20cb" title="Return the kth smallest pixel value." alt="" coords="268,136,429,177"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a2d7b769d447c0451a2f43c77e997beff" title="Return the number of image columns." alt="" coords="268,201,429,243"/>
-</map>

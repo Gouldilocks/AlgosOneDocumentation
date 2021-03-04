@@ -1,4 +1,0 @@
-<map id="cimg_library_suffixed::CImg::MSE" name="cimg_library_suffixed::CImg::MSE">
-<area shape="rect" id="node1" title="Compute the MSE (Mean&#45;Squared Error) between two images." alt="" coords="227,5,388,47"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a1c5936e2a0499030ddf5a2e5e07eb128" title="Compute the PSNR (Peak Signal&#45;to&#45;Noise Ratio) between two images." alt="" coords="5,5,179,47"/>
-</map>

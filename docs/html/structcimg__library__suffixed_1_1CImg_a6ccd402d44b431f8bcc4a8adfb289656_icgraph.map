@@ -1,8 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_mirror" name="cimg_library_suffixed::CImg::get_mirror">
-<area shape="rect" id="node1" title="Mirror image content along specified axis \newinstance." alt="" coords="752,79,913,120"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a67bd442a7f2c58457cdaa82fe8cce57b" title="Correlate image by a kernel \newinstance." alt="" coords="501,5,704,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a43ae97851b33d5c3af9a78f4eb7ad0da" title=" " alt="" coords="503,71,703,127"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a1c7f7340bc5326713d06af1cda3be5be" title="Save image as a PFM file." alt="" coords="501,152,704,193"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,71,453,127"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,71,205,127"/>
-</map>

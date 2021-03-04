@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::cimg::medcon_path" name="cimg_library_suffixed::cimg::medcon_path">
-<area shape="rect" id="node1" title="Get/set path to the XMedcon&#39;s medcon binary." alt="" coords="325,79,487,120"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a79b7a247520612001a04d8ef1c2991dc" title="Print information about \CImg environment variables." alt="" coords="112,5,273,47"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a8306218d5edf273c822113b799fd89cc" title="Load image from a DICOM file, using XMedcon&#39;s external tool &#39;medcon&#39;." alt="" coords="109,71,276,127"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a30d02c3d77fc43c8b5845e92268cdab5" title="Save image as a Dicom file." alt="" coords="108,151,277,207"/>
-<area shape="rect" id="node3" href="$CImg__demo_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,60,39"/>
-</map>

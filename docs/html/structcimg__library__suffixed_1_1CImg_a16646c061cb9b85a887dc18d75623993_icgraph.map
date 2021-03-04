@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_shared_row" name="cimg_library_suffixed::CImg::get_shared_row">
-<area shape="rect" id="node1" title="Return a shared&#45;memory image referencing one row of the image instance." alt="" coords="263,119,437,160"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a0b8b15895c6d7bf28afb1878ee6cb122" title="Generate a 3D ellipsoid." alt="" coords="5,5,215,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a595e9d40b1279ade2cf00bbf67d46639" title="Resize 3D object." alt="" coords="21,71,199,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a8ec572eacf0c3729dfcb7dfd5a1253e3" title="Shift 3D object&#39;s vertices." alt="" coords="27,151,193,207"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a42395174c544ec66191539bf76fcb360" title="Texturize primitives of a 3D object." alt="" coords="12,231,208,287"/>
-</map>

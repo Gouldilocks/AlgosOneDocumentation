@@ -1,7 +1,0 @@
-<map id="item_plasma" name="item_plasma">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,112,73"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#aae5df5731fe5a367cec402071108c11c" title="Return the maximum between three values." alt="" coords="160,5,321,47"/>
-<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#a9ec6c3ef7942ced482047db3e351c9eb" title=" " alt="" coords="160,71,321,112"/>
-<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="369,5,531,47"/>
-<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#a89b0e50db97e9a872e1bed2cb02fc3c0" title=" " alt="" coords="369,71,531,112"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::cross" name="cimg_library_suffixed::CImg::cross">
-<area shape="rect" id="node1" title="Compute the cross product between two 1x3 images, viewed as 3D vectors." alt="" coords="749,43,911,84"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a693bb4d3271ab0e66801434616211885" title="Compute the cross product between two 1x3 images, viewed as 3D vectors \newinstance." alt="" coords="501,5,701,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#aa9403f3b27d30b3a804da27a0dc5f4c0" title=" " alt="" coords="501,71,701,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,71,453,127"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,71,205,127"/>
-</map>

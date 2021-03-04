@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_atXYZ" name="cimg_library_suffixed::CImg::_atXYZ">
-<area shape="rect" id="node1" title=" " alt="" coords="256,104,417,145"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a67bd442a7f2c58457cdaa82fe8cce57b" title="Correlate image by a kernel \newinstance." alt="" coords="5,5,208,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ad80b6ce9d8d44e17a43dcda51839d4da" title=" " alt="" coords="15,71,199,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a944208971d785b08c78fe10b49fb4b06" title="Access to a pixel value, using Neumann boundary conditions for the X,Y and Z&#45;coordinates." alt="" coords="18,136,195,177"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a7492ff3af8a30edeb88d2fcfb1ca55ca" title="Warp image content by a warping field \newinstance." alt="" coords="7,201,206,243"/>
-</map>

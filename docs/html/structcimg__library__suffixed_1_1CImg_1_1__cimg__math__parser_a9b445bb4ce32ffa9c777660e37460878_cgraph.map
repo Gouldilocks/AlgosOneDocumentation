@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_cimg_math_parser::mp_mproj" name="cimg_library_suffixed::CImg::_cimg_math_parser::mp_mproj">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,205,87"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="256,5,417,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a86ef556259b3ce644de696c248f7ebd1" title="Compute the projection of the instance matrix onto the specified dictionary." alt="" coords="253,71,420,112"/>
-</map>

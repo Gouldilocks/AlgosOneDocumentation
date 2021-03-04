@@ -1,8 +1,0 @@
-<map id="cimg_library_suffixed::CImg::atXYZ" name="cimg_library_suffixed::CImg::atXYZ">
-<area shape="rect" id="node1" title="Access to a pixel value, using Dirichlet boundary conditions for the X,Y and Z&#45;coordinates." alt="" coords="275,136,436,177"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a67bd442a7f2c58457cdaa82fe8cce57b" title="Correlate image by a kernel \newinstance." alt="" coords="15,5,217,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ad80b6ce9d8d44e17a43dcda51839d4da" title=" " alt="" coords="24,71,208,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a2ba984d3c1af914c3d666a013c285fba" title="Return pixel value, using cubic interpolation and Dirichlet boundary conditions for the X,..." alt="" coords="7,136,225,177"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a7492ff3af8a30edeb88d2fcfb1ca55ca" title="Warp image content by a warping field \newinstance." alt="" coords="17,201,215,243"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#ad6fa9913ce6166bf051dca1696586473" title="Return pixel value, using linear interpolation and Dirichlet boundary conditions for the X,..." alt="" coords="5,267,227,308"/>
-</map>

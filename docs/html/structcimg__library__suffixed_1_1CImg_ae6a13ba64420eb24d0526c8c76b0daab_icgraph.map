@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_cubic_atX_p" name="cimg_library_suffixed::CImg::_cubic_atX_p">
-<area shape="rect" id="node1" title=" " alt="" coords="269,50,431,91"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a29cc15c720928964dde050649efa3c84" title=" " alt="" coords="24,5,203,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ae68ec93f489eabe95dc5a91e5a5dc78b" title="Return pixel value, using cubic interpolation and periodic boundary conditions for the X&#45;coordinate." alt="" coords="5,86,221,127"/>
-</map>

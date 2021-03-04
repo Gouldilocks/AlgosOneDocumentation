@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImgList::load" name="cimg_library_suffixed::CImgList::load">
-<area shape="rect" id="node1" title="Load a list from a file." alt="" coords="215,93,376,134"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#aef5377b65794d5457dbc90b340e76530" title="Construct list by reading the content of a file \inplace." alt="" coords="5,5,167,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#aa6103709b1dee0aec2a199650a1c0c5d" title="Load a list from a file \newinstance." alt="" coords="5,85,167,141"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#aae55e9a79bf2f7e08108dd200f63bf2c" title="Load a gzipped list, using external tool &#39;gunzip&#39;." alt="" coords="5,165,167,221"/>
-</map>

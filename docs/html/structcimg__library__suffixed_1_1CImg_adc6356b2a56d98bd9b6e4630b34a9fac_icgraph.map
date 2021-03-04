@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::dilate" name="cimg_library_suffixed::CImg::dilate">
-<area shape="rect" id="node1" title="Dilate image by a structuring element." alt="" coords="228,43,389,84"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#abfa44c33cea7cc5ca622e652430be0b6" title="Dilate image by a square structuring element of specified size." alt="" coords="5,5,180,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a7e102b7d6027bb06733fb460d576000d" title="Dilate image by a rectangular structuring element of specified size \newinstance." alt="" coords="12,71,173,127"/>
-</map>

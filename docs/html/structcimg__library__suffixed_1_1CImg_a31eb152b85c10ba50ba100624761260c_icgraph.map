@@ -1,4 +1,0 @@
-<map id="cimg_library_suffixed::CImg::minabs" name="cimg_library_suffixed::CImg::minabs">
-<area shape="rect" id="node1" title="Return a reference to the minimum pixel value in absolute value." alt="" coords="240,5,401,47"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a00eb9d403c9d95139b4c0fb3dff1166a" title="Pointwise minabs operator between two images." alt="" coords="5,5,192,47"/>
-</map>

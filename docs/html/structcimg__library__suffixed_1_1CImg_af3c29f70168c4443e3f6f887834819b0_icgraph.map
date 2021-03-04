@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::blur_anisotropic" name="cimg_library_suffixed::CImg::blur_anisotropic">
-<area shape="rect" id="node1" title="Blur image anisotropically, directed by a field of diffusion tensors." alt="" coords="216,53,392,94"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#adf40aeb8a86a6a019e4235fb0c490c1e" title="Blur image anisotropically, in an edge&#45;preserving way." alt="" coords="5,5,168,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ab2c4ecc8367fe585203dbd1d303c23cb" title="Blur image anisotropically, directed by a field of diffusion tensors \newinstance." alt="" coords="6,85,167,141"/>
-</map>

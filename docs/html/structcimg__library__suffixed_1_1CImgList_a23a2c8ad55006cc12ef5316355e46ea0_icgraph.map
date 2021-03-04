@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImgList::load_video" name="cimg_library_suffixed::CImgList::load_video">
-<area shape="rect" id="node1" title="Load an image from a video file, using OpenCV library." alt="" coords="243,93,409,134"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a3a29ee5b4cfcb8d35134a85b7cc60c29" title="Load image sequence from a video file, using OpenCV library \newinstance." alt="" coords="19,5,181,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#aa534cd50892cb314039eb59eb5b66824" title="Load an image from a video file, using OpenCV library \newinstance." alt="" coords="19,85,181,141"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#a63bd67d8dd2301933df7decb4612916e" title="Load a list from a file." alt="" coords="5,166,195,207"/>
-</map>

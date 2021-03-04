@@ -1,6 +1,0 @@
-<map id="item_3d_reflection" name="item_3d_reflection">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,148,73"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a0852e9ad458e82d2c003844cd92bdb8a" title="Return absolute value of a value." alt="" coords="196,5,357,47"/>
-<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a091c508a646a5459c00aa2b5ac9ea5e5" title="Return the minimum between three values." alt="" coords="196,71,357,112"/>
-<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#ad5459593e7f8a4066cb22ad63de8e92d" title="Return the minimum between four values." alt="" coords="405,71,567,112"/>
-</map>

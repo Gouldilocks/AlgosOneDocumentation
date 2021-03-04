@@ -1,8 +1,0 @@
-<map id="cimg_library_suffixed::CImg::is_shared" name="cimg_library_suffixed::CImg::is_shared">
-<area shape="rect" id="node1" title="Test shared state of the pixel buffer." alt="" coords="272,151,433,193"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a1617f662e7a8878661fad1355613e093" title=" " alt="" coords="29,5,200,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a49b5ba70db0454b45655719afe3930e9" title="Construct image with specified size and initialize pixel values from a memory buffer \overloading." alt="" coords="25,86,205,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a44efa4d01131a95969d9e16cc0f3b428" title="Construct image with specified size and initialize pixel values from a memory buffer." alt="" coords="29,151,201,193"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a4dfe9a9fb78df031a5750e7898af3d9e" title="Draw an image." alt="" coords="5,217,224,258"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a1a6afc9cde7f9cdfa0d2711dd39f83b8" title="Return an image containing the character codes of specified string." alt="" coords="27,282,202,323"/>
-</map>

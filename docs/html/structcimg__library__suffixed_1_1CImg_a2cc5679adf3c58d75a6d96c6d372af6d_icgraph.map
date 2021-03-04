@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::load_analyze" name="cimg_library_suffixed::CImg::load_analyze">
-<area shape="rect" id="node1" title="Load image from an ANALYZE7.5/NIFTI file." alt="" coords="220,130,381,171"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#aa76ea394c266e00ee8bc7d01912c0a4c" title="Load image from an ANALYZE7.5/NIFTI file \newinstance." alt="" coords="8,5,169,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#affc87751805800f5a51795de1cc00a82" title="Load image from a MINC2 file \newinstance." alt="" coords="8,85,169,141"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="5,166,172,207"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a8306218d5edf273c822113b799fd89cc" title="Load image from a DICOM file, using XMedcon&#39;s external tool &#39;medcon&#39;." alt="" coords="5,232,172,288"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="cimg_library_suffixed::CImg::sum" name="cimg_library_suffixed::CImg::sum">
-<area shape="rect" id="node1" title="Return the sum of all the pixel values." alt="" coords="255,199,416,241"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a76406024d5259d3116f65a5f1bdffa87" title=" " alt="" coords="17,5,195,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a0cbbc74874b1c35b42634805e60d1e3a" title=" " alt="" coords="17,85,195,141"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a9003055d9bb4040cffb855dfdea19715" title=" " alt="" coords="25,166,187,207"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a4957805e1e2990de3d61d5b08feab5e9" title=" " alt="" coords="16,231,196,273"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#ae0859700c8aaa58104b7985338246441" title="Convert pixel values from RGB to HSI color spaces." alt="" coords="5,297,207,338"/>
-<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a02b07a06bfbca6ca84b97f052d9e2bfc" title="Convert pixel values from XYZ to xyY color spaces." alt="" coords="5,362,207,403"/>
-</map>

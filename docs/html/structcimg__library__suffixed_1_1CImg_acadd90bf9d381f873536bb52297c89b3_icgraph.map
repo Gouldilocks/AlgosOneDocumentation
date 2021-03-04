@@ -1,4 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_shared_slices" name="cimg_library_suffixed::CImg::get_shared_slices">
-<area shape="rect" id="node1" title="Return a shared memory image referencing a range of slices of the image instance." alt="" coords="215,13,403,54"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ae05e1dbc04615f1d073f22a9494429d6" title="Return a shared&#45;memory image referencing one slice of the image instance." alt="" coords="5,5,167,61"/>
-</map>

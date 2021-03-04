@@ -1,8 +1,0 @@
-<map id="cimg_library_suffixed::CImgList::size" name="cimg_library_suffixed::CImgList::size">
-<area shape="rect" id="node1" title="Return the size of the list, i.e. the number of images contained in it." alt="" coords="253,166,415,207"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ac35491902293ceb99afaf46efb2f78a0" title=" " alt="" coords="10,5,201,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a344c3e368862cff72ba25825415e9bbf" title=" " alt="" coords="17,85,194,141"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a7cba468815b7ce868cc5119e89046420" title=" " alt="" coords="5,166,205,207"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a1617f662e7a8878661fad1355613e093" title=" " alt="" coords="20,232,191,288"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a10b28cfe85047fcd3637bf2083586da6" title="Convert 3D object into a CImg3d representation \newinstance." alt="" coords="25,312,186,368"/>
-</map>

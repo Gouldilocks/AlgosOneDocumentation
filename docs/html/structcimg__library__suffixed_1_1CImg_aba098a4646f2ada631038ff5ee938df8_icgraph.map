@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::mirror" name="cimg_library_suffixed::CImg::mirror">
-<area shape="rect" id="node1" title="Mirror image content along specified axis." alt="" coords="263,108,424,149"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#aa54db2f4c7251f0b2ec7e27c55f035ad" title=" " alt="" coords="5,5,215,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a0735cc3a6a6f0639ff34e98086cb7992" title=" " alt="" coords="7,71,213,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a6ccd402d44b431f8bcc4a8adfb289656" title="Mirror image content along specified axis \newinstance." alt="" coords="29,137,191,193"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#ab425e90292d3947c762ac028d20f9c3e" title="Mirror image content along specified axes." alt="" coords="21,217,199,259"/>
-</map>

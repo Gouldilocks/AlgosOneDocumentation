@@ -1,5 +1,0 @@
-<map id="item_word_puzzle" name="item_word_puzzle">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,145,73"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a0852e9ad458e82d2c003844cd92bdb8a" title="Return absolute value of a value." alt="" coords="193,5,355,47"/>
-<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a60c895ccdb84e7ccdd884ff61bab29f0" title="Cut (i.e. clamp) value in specified interval." alt="" coords="193,71,355,112"/>
-</map>

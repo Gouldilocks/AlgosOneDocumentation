@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_cimg_math_parser::mp_expr" name="cimg_library_suffixed::CImg::_cimg_math_parser::mp_expr">
-<area shape="rect" id="node1" title=" " alt="" coords="5,97,205,153"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a17a3c105772f6401fd631d0d82a59d65" title="Return a reference to the last pixel value." alt="" coords="253,5,415,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a5d59f7127a481b884a3132bc6c767c5e" title="Evaluate math formula." alt="" coords="253,71,415,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ab7ab19191c8b913121d5c99a0e5806db" title="Fill all pixel values with specified value." alt="" coords="253,136,415,177"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a2d7b769d447c0451a2f43c77e997beff" title="Return the number of image columns." alt="" coords="253,201,415,243"/>
-</map>
