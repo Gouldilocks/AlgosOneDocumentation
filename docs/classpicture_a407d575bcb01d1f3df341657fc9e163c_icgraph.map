@@ -1,9 +1,10 @@
 <map id="picture::h" name="picture::h">
-<area shape="rect" id="node1" title=" " alt="" coords="237,132,320,159"/>
-<area shape="rect" id="node2" href="$classbitMap.html#a1ffcbc076f8d52967b9c65ac38d643c4" title=" " alt="" coords="24,5,171,32"/>
-<area shape="rect" id="node3" href="$classbitMap.html#a8323893e08803f7966f56720a75c07bc" title=" " alt="" coords="5,56,189,83"/>
-<area shape="rect" id="node4" href="$classbitMap.html#a478eb438cdb30214c4719c61c6b95329" title=" " alt="" coords="13,107,181,133"/>
-<area shape="rect" id="node5" href="$classpicture.html#a0c1cc9df5e52540117618ba15a415df7" title=" " alt="" coords="27,157,168,184"/>
-<area shape="rect" id="node6" href="$classpicture.html#a023655517f3cabc91cc196c32fda7182" title=" " alt="" coords="21,208,173,235"/>
-<area shape="rect" id="node7" href="$classimageManager.html#aa27aa57090006c9993783471cbef56d0" title=" " alt="" coords="21,259,174,301"/>
+<area shape="rect" id="node1" title=" " alt="" coords="380,157,463,184"/>
+<area shape="rect" id="node2" href="$classbitMap.html#a414717af4c1ce9640044931d167e8857" title=" " alt="" coords="167,5,313,32"/>
+<area shape="rect" id="node3" href="$bitMapTests_8cpp.html#a78eba1a23e99304ccefb3f2253c0f3c1" title=" " alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node4" href="$classbitMap.html#a8323893e08803f7966f56720a75c07bc" title=" " alt="" coords="148,107,332,133"/>
+<area shape="rect" id="node5" href="$classbitMap.html#a478eb438cdb30214c4719c61c6b95329" title=" " alt="" coords="156,157,324,184"/>
+<area shape="rect" id="node6" href="$classpicture.html#a0c1cc9df5e52540117618ba15a415df7" title=" " alt="" coords="169,208,311,235"/>
+<area shape="rect" id="node7" href="$classpicture.html#a023655517f3cabc91cc196c32fda7182" title=" " alt="" coords="164,259,316,285"/>
+<area shape="rect" id="node8" href="$classimageManager.html#aa27aa57090006c9993783471cbef56d0" title=" " alt="" coords="163,310,317,351"/>
 </map>

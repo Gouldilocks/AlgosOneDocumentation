@@ -1,4 +1,20 @@
 var searchData=
 [
-  ['usewindows_102',['useWindows',['../imageManager_8h.html#a2da04faa08eff798e202252ecad5f153',1,'imageManager.h']]]
+  ['set_5fstart_225',['set_start',['../classpicture.html#a23b90f731da2c181e83f6b90d6e2dfca',1,'picture']]],
+  ['set_5fx_226',['set_x',['../classbitMap.html#a2b68a8703518d3fd64e2c1ad45c69749',1,'bitMap']]],
+  ['set_5fy_227',['set_y',['../classbitMap.html#a3bdac3b4c5588cd15e9310c7c0c4e3c8',1,'bitMap']]],
+  ['setfail_228',['setFail',['../classimageManager.html#aa31129fe64447b593918b19e9977f302',1,'imageManager']]],
+  ['setpictures_229',['setPictures',['../classimageManager.html#a4810d58def01ac6af3e3a7649983b9a0',1,'imageManager']]],
+  ['setsortme_230',['setSortMe',['../classpicture.html#ad05122dd8fe1c15f309b83ec72031373',1,'picture']]],
+  ['smallest_5ffirst_231',['smallest_first',['../classimageManager.html#a477a1bc3f2016814f0f38ac5e80ecabb',1,'imageManager']]],
+  ['smallone_232',['smallOne',['../classwallFiller.html#a2732c5613e3deebcc39278121bff475c',1,'wallFiller']]],
+  ['smalltwo_233',['smallTwo',['../classwallFiller.html#ae1fa24dc537ff5fc788638818f7424b3',1,'wallFiller']]],
+  ['sort_5fsmallest_234',['sort_smallest',['../classimageManager.html#aa27aa57090006c9993783471cbef56d0',1,'imageManager']]],
+  ['sortmeby_235',['sortMeBy',['../classpicture.html#a17ed0664a71310b563da941a21dd5869',1,'picture']]],
+  ['space_5fstate_236',['space_state',['../classbitMap.html#a2c6efb12f992879ea126643981477633',1,'bitMap']]],
+  ['spiralplacement_237',['spiralPlacement',['../classimageManager.html#ab930f4bfede7430c9475840e820837f7',1,'imageManager']]],
+  ['spiralrecur_238',['spiralRecur',['../classimageManager.html#a0bfb5852da5459b00ded94a702835398',1,'imageManager']]],
+  ['startprogram_239',['startProgram',['../classwallFiller.html#ae42b657b4ca64bed8a0d2821fea62686',1,'wallFiller']]],
+  ['stringify_240',['STRINGIFY',['../CMakeCCompilerId_8c.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCCompilerId.c'],['../CMakeCXXCompilerId_8cpp.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCXXCompilerId.cpp']]],
+  ['stringify_5fhelper_241',['STRINGIFY_HELPER',['../CMakeCCompilerId_8c.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCCompilerId.c'],['../CMakeCXXCompilerId_8cpp.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCXXCompilerId.cpp']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['height_219',['height',['../classimageManager.html#a338f271013407ac9325ef2501c0c8605',1,'imageManager::height()'],['../classpicture.html#ace8bf42953bb9736f600af48292ca170',1,'picture::height()']]],
-  ['heuristicone_220',['heuristicOne',['../classwallFiller.html#a937004e3cf0f7472615faa069b9942e1',1,'wallFiller']]],
-  ['heuristictwo_221',['heuristicTwo',['../classwallFiller.html#a58e7f0e949c72be00e61e9da9810a8de',1,'wallFiller']]]
+  ['data_479',['data',['../classpicture.html#a0aa19d5b1c02cb4a59bc5101e65321a1',1,'picture']]],
+  ['displayer_480',['displayer',['../classimageManager.html#a5979dfa09e650c2f51ded7863152ac2e',1,'imageManager']]]
 ];
