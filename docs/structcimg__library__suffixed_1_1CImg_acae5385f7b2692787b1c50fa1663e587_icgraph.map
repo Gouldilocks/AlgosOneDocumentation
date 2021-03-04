@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_split" name="cimg_library_suffixed::CImg::get_split">
-<area shape="rect" id="node1" title="Split image into a list along specified axis." alt="" coords="265,50,427,91"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a3a8132f303e3295e0219ea4518c6ef20" title="Save volumetric image as a video, using ffmpeg external binary." alt="" coords="27,5,196,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a1bdca455737facbfa2ca6fd959a39cd4" title="Save volumetric image as a video, using the OpenCV library." alt="" coords="5,86,217,127"/>
-</map>

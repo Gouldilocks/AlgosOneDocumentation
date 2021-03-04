@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImg::variance" name="cimg_library_suffixed::CImg::variance">
-<area shape="rect" id="node1" title="Return the variance of the pixel values." alt="" coords="292,71,453,112"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a6b0bae9cab19fd71fb6157a93749280f" title="Compute statistics vector from the pixel values." alt="" coords="25,5,224,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#aae8fb87bbd9424e931c491a2f37676d4" title="Return the variance as well as the average of the pixel values." alt="" coords="5,71,244,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#aaaec686e2fcdf62ca8f792013da04563" title="Return estimated variance of the noise." alt="" coords="7,136,243,177"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_norm" name="cimg_library_suffixed::CImg::get_norm">
-<area shape="rect" id="node1" title="Compute L2&#45;norm of each multi&#45;valued pixel of the image instance \newinstance." alt="" coords="225,5,387,47"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ab850013f0ed453ba91ac0004e76f5d78" title="Compute Lp&#45;norm of each multi&#45;valued pixel of the image instance." alt="" coords="5,5,177,47"/>
-</map>

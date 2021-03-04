@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_vector_at" name="cimg_library_suffixed::CImg::get_vector_at">
-<area shape="rect" id="node1" title="Get vector&#45;valued pixel located at specified position." alt="" coords="248,71,409,112"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ad9b7141242d0b6e861a8014112ddb5b5" title=" " alt="" coords="11,5,195,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a0352ac03847c87c5401af759d715db68" title="Autocrop image region, regarding the specified background color." alt="" coords="5,71,200,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a1dfebf569b61d5345ab349ca1418a78a" title="Draw filled 3D region with the flood fill algorithm." alt="" coords="6,136,199,177"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_cubic_atX" name="cimg_library_suffixed::CImg::_cubic_atX">
-<area shape="rect" id="node1" title=" " alt="" coords="276,39,437,80"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ae725a1ef1d202934fd989edbcf46aeb0" title=" " alt="" coords="5,5,228,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a6a5f5eeffee033a9089361ef8929e9e6" title="Return pixel value, using cubic interpolation and Neumann boundary conditions for the X&#45;coordinate." alt="" coords="16,71,217,112"/>
-</map>

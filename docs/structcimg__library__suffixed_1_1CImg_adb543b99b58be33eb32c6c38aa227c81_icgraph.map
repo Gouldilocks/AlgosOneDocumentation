@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::is_sameYZ" name="cimg_library_suffixed::CImg::is_sameYZ">
-<area shape="rect" id="node1" title="Test if image height and depth are equal to specified values." alt="" coords="272,39,433,80"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a50249a07106fcff7f2fee10556f72814" title="Test if image height and depth are the same as that of another image." alt="" coords="10,5,219,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ae760c8fdeafe52c88695fc1a2f65a62f" title="Test if image height, depth and spectrum are equal to specified values." alt="" coords="5,71,224,112"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_cimg_math_parser::check_constant_index" name="cimg_library_suffixed::CImg::_cimg_math_parser::check_constant_index">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,205,87"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a17a3c105772f6401fd631d0d82a59d65" title="Return a reference to the last pixel value." alt="" coords="253,5,415,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ab5cb3e6f07f2cd894641aa6a26807c1e" title="Return the type of image pixel values as a C string." alt="" coords="253,71,415,112"/>
-</map>

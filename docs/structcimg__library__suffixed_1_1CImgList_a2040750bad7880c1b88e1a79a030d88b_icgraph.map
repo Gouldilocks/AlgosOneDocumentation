@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImgList::remove" name="cimg_library_suffixed::CImgList::remove">
-<area shape="rect" id="node1" title="Remove last image." alt="" coords="251,119,412,160"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#afe6ef571f05f34f26f73eb02c9464d07" title="Remove image pointed by iterator." alt="" coords="5,5,203,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#ac619bd8222ff38259b6f891ae3f646bb" title="Remove last image." alt="" coords="23,71,185,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#afb5883af31042787f25c35c9d044de6e" title="Remove first image." alt="" coords="23,151,185,207"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImgList.html#ae06b3426c496dcd8ad456a7d7aca0117" title="Remove image at index pos from the image list." alt="" coords="23,231,185,287"/>
-</map>

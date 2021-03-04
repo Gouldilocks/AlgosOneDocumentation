@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_structure_tensors" name="cimg_library_suffixed::CImg::get_structure_tensors">
-<area shape="rect" id="node1" title="Compute the structure tensor field of an image \newinstance." alt="" coords="249,79,411,135"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a3e930c4e4076b0fe306ff9354411cebe" title="Compute field of diffusion tensors for edge&#45;preserving smoothing." alt="" coords="6,5,201,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ae884ac4a2168d7411b004a4e8c6869e5" title="Sharpen image." alt="" coords="8,86,199,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ab453c2ec9fa07a3dc2c134182d0dff0f" title="Compute the structure tensor field of an image." alt="" coords="5,152,201,208"/>
-</map>

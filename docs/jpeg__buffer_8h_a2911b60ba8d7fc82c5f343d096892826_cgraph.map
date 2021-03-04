@@ -1,8 +1,0 @@
-<map id="get_load_jpeg_buffer" name="get_load_jpeg_buffer">
-<area shape="rect" id="node1" title="Load image from a jpeg&#45;coded memory buffer." alt="" coords="5,50,164,77"/>
-<area shape="rect" id="node2" href="$jpeg__buffer_8h.html#a42d762fece7c78f45cfb5707ba6a8c95" title=" " alt="" coords="212,50,329,77"/>
-<area shape="rect" id="node3" href="$jpeg__buffer_8h.html#a8e30fc2edc5df57aad31dc491fc41971" title=" " alt="" coords="564,25,700,51"/>
-<area shape="rect" id="node4" href="$jpeg__buffer_8h.html#ac5eb4dcaaa20bbc94dd28cd53c4c2f80" title=" " alt="" coords="393,25,500,51"/>
-<area shape="rect" id="node5" href="$jpeg__buffer_8h.html#a9e202a36abc487f6ddc0e92518c10e50" title=" " alt="" coords="377,75,516,102"/>
-<area shape="rect" id="node6" href="$jpeg__buffer_8h.html#aac724d5eda2dfd5b121f0822e9a29e10" title=" " alt="" coords="395,126,498,153"/>
-</map>

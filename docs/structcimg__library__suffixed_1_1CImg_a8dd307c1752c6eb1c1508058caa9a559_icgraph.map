@@ -1,4 +1,0 @@
-<map id="cimg_library_suffixed::CImg::distance_eikonal" name="cimg_library_suffixed::CImg::distance_eikonal">
-<area shape="rect" id="node1" title="Compute distance map to one source point, according to a custom metric (use fast marching algorithm)." alt="" coords="215,13,396,54"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ae3eac1d9234f13d5b0be20fbcd28a9b3" title="Compute distance function to 0&#45;valued isophotes, using the Eikonal PDE \newinstance." alt="" coords="5,5,167,61"/>
-</map>

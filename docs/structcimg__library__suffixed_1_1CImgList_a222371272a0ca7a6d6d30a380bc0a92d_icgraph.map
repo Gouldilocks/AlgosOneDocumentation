@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImgList::load_gif_external" name="cimg_library_suffixed::CImgList::load_gif_external">
-<area shape="rect" id="node1" title="Load gif file, using ImageMagick or GraphicsMagick&#39;s external tools." alt="" coords="243,85,404,141"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a9ddb90d7e2fadc1afdd4aa8167697a70" title="Load gif file, using ImageMagick or GraphicsMagick&#39;s external tool &#39;convert&#39; \newinstance." alt="" coords="19,5,181,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#a74ba3fead6216d5b931e19f485386701" title="Load gif file, using ImageMagick or GraphicsMagick&#39;s external tools \newinstance." alt="" coords="19,85,181,141"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#a63bd67d8dd2301933df7decb4612916e" title="Load a list from a file." alt="" coords="5,166,195,207"/>
-</map>

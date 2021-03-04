@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::erode" name="cimg_library_suffixed::CImg::erode">
-<area shape="rect" id="node1" title="Erode image by a structuring element." alt="" coords="256,39,417,80"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a984daab9706f207ca6fba4aad08736b0" title="Erode the image by a square structuring element of specified size." alt="" coords="19,5,194,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#acd5523cb0e29ad63049ec5bea040e502" title="Erode image by a rectangular structuring element of specified size \newinstance." alt="" coords="5,71,208,112"/>
-</map>

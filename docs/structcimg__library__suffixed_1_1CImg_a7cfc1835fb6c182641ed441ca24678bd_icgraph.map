@@ -1,4 +1,0 @@
-<map id="cimg_library_suffixed::CImg::__distance_eikonal" name="cimg_library_suffixed::CImg::__distance_eikonal">
-<area shape="rect" id="node1" title=" " alt="" coords="215,13,409,54"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a2b1addf2e74607a44640f82f88916d37" title="Compute distance map to one source point, according to a custom metric (use fast marching algorithm)." alt="" coords="5,5,167,61"/>
-</map>

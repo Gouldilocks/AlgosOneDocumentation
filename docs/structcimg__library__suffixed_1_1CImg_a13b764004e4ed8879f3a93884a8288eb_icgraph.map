@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::maxabs" name="cimg_library_suffixed::CImg::maxabs">
-<area shape="rect" id="node1" title="Return a reference to the maximum pixel value in absolute value." alt="" coords="304,39,465,80"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a0529a187d5d935980a6a1c92b6361aad" title="Pointwise maxabs operator between two images." alt="" coords="35,5,226,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a53284105886c5eb684b26e7dba5ede66" title="Compute eigenvalues and eigenvectors of the instance image, viewed as a symmetric matrix." alt="" coords="5,71,256,112"/>
-</map>

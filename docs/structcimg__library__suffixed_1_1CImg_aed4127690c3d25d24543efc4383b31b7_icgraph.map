@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImg::is_sameXYZC" name="cimg_library_suffixed::CImg::is_sameXYZC">
-<area shape="rect" id="node1" title="Test if image width, height, depth and spectrum are equal to specified values." alt="" coords="280,79,441,120"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a4dfe9a9fb78df031a5750e7898af3d9e" title="Draw an image." alt="" coords="9,5,228,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a43ac987a2986717d1c115844e3b6501c" title="Estimate displacement field between two images \newinstance." alt="" coords="38,71,199,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a1dc465922a58a131b79f3180de39685c" title="Test if image width, height, depth and spectrum are the same as that of another image." alt="" coords="5,152,232,193"/>
-</map>

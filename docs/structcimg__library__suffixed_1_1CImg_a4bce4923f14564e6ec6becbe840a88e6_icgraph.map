@@ -1,9 +1,0 @@
-<map id="cimg_library_suffixed::CImg::is_sameXY" name="cimg_library_suffixed::CImg::is_sameXY">
-<area shape="rect" id="node1" title="Test if image width and height are equal to specified values." alt="" coords="272,196,433,237"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ab0010fe28a2b9ff07de72db88ae74191" title="Draw a 2D line, with z&#45;buffering." alt="" coords="14,5,215,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a3ae34e7a3b5f1820ffd48d838edfed35" title="Draw a filled 2D triangle, with z&#45;buffering." alt="" coords="29,71,200,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a6df02334b3342622e7439c27ec149456" title="Generate a 3D elevation of the image instance." alt="" coords="34,151,195,207"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a461297eb83c24e4d49593cf2010bdef3" title="Test if image width and height are the same as that of another image." alt="" coords="10,232,219,273"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a3a7c1f48462ee694cb1f3f67534e7b87" title="Test if image width, height and spectrum are equal to specified values." alt="" coords="6,297,223,339"/>
-<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a4d661c89b7169d76bba1880e0ea825ef" title="Test if image width, height and depth are equal to specified values." alt="" coords="5,363,224,404"/>
-</map>

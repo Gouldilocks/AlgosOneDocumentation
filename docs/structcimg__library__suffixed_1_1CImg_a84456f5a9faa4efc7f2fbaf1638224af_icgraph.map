@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_shared_rows" name="cimg_library_suffixed::CImg::get_shared_rows">
-<area shape="rect" id="node1" title="Return a shared&#45;memory image referencing a range of rows of the image instance." alt="" coords="501,53,684,94"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,5,453,61"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a16646c061cb9b85a887dc18d75623993" title="Return a shared&#45;memory image referencing one row of the image instance." alt="" coords="273,85,434,141"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,5,205,61"/>
-</map>

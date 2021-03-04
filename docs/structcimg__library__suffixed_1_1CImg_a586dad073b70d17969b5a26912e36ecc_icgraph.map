@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::distance" name="cimg_library_suffixed::CImg::distance">
-<area shape="rect" id="node1" title="Compute Euclidean distance function to a specified value." alt="" coords="240,43,401,84"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a376d6a45a4f3122f23a9b352fd56adf0" title="Compute minimal path in a graph, using the Dijkstra algorithm." alt="" coords="5,5,192,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a95c93d4db1bc01354a8243a2d365e20d" title="Compute distance to a specified value \newinstance." alt="" coords="18,71,179,127"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImg::max" name="cimg_library_suffixed::CImg::max">
-<area shape="rect" id="node1" title="Return a reference to the maximum pixel value." alt="" coords="260,79,421,120"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a4bcf33abcee45165d20d9530f6c85242" title=" " alt="" coords="5,5,212,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a36aae980a6c3c96c3fcef32cd93f20cb" title="Return the kth smallest pixel value." alt="" coords="28,71,189,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ac0261322f17257ea28ab9525edf40182" title="Pointwise max operator between two images." alt="" coords="25,152,192,193"/>
-</map>

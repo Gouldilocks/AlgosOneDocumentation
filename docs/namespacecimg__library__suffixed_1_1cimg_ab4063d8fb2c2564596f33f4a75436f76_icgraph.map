@@ -1,8 +1,0 @@
-<map id="cimg_library_suffixed::cimg::graphicsmagick_path" name="cimg_library_suffixed::cimg::graphicsmagick_path">
-<area shape="rect" id="node1" title="Get/set path to the GraphicsMagick&#39;s gm binary." alt="" coords="349,123,559,165"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#a666592ad2e1ecef3317d060696ebbfaa" title=" " alt="" coords="124,5,285,61"/>
-<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a79b7a247520612001a04d8ef1c2991dc" title="Print information about \CImg environment variables." alt="" coords="124,86,285,127"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a34578e61c66a0046835660bada43e3d6" title="Load image using GraphicsMagick&#39;s external tool &#39;gm&#39;." alt="" coords="108,152,301,208"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a44f125968c20e8c7d833bf7d75c32db6" title="Save image using GraphicsMagick&#39;s external binary." alt="" coords="108,232,301,288"/>
-<area shape="rect" id="node4" href="$CImg__demo_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,93,60,120"/>
-</map>

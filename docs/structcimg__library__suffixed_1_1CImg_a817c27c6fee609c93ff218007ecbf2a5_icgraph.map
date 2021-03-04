@@ -1,7 +1,0 @@
-<map id="cimg_library_suffixed::CImg::_linear_atXYZ_p" name="cimg_library_suffixed::CImg::_linear_atXYZ_p">
-<area shape="rect" id="node1" title=" " alt="" coords="256,104,433,145"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a67bd442a7f2c58457cdaa82fe8cce57b" title="Correlate image by a kernel \newinstance." alt="" coords="5,5,208,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ad80b6ce9d8d44e17a43dcda51839d4da" title=" " alt="" coords="15,71,199,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a7492ff3af8a30edeb88d2fcfb1ca55ca" title="Warp image content by a warping field \newinstance." alt="" coords="7,136,206,177"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a23fd615641fd468b4c65a3b28e813a4a" title="Return pixel value, using linear interpolation and periodic boundary conditions for the X,..." alt="" coords="19,202,194,258"/>
-</map>

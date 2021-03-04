@@ -1,6 +1,0 @@
-<map id="chlpca" name="chlpca">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,69,32"/>
-<area shape="rect" id="node2" href="$chlpca_8h.html#a33304fcab700ab713989b05af52a4f5a" title="CHLPCA denoising from the PhD thesis of Hu Haijuan." alt="" coords="117,5,209,32"/>
-<area shape="rect" id="node3" href="$chlpca_8h.html#a06e87e471720b7e90c8f5150e44afab7" title="Extract a local patch dictionnary around point xi,yi,zi." alt="" coords="257,5,424,32"/>
-<area shape="rect" id="node4" href="$chlpca_8h.html#aef5501adc515779834b5303323b7d4e8" title="Crop a patch in the image around position x,y,z and return a column vector." alt="" coords="472,5,559,32"/>
-</map>

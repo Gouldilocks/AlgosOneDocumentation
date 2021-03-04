@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImgList::save" name="cimg_library_suffixed::CImgList::save">
-<area shape="rect" id="node1" title="Save list into a file." alt="" coords="215,53,376,94"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#af8a6b01f20b2d459e5abe6b99836ea9a" title=" " alt="" coords="5,5,167,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#aad5afe8b913e276dd281255dd787b4ba" title="Save list as a gzipped file, using external tool &#39;gzip&#39;." alt="" coords="5,85,167,141"/>
-</map>

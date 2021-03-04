@@ -1,8 +1,0 @@
-<map id="item_fireworks" name="item_fireworks">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,124,105"/>
-<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a091c508a646a5459c00aa2b5ac9ea5e5" title="Return the minimum between three values." alt="" coords="172,5,333,47"/>
-<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#a9ec6c3ef7942ced482047db3e351c9eb" title=" " alt="" coords="172,71,333,112"/>
-<area shape="rect" id="node6" href="$namespacecimg__library__suffixed_1_1cimg.html#a67e7c7cbeb79de5fc2f6a21afb06d413" title="Return the value of a system timer, with a millisecond precision." alt="" coords="172,136,333,177"/>
-<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#ad5459593e7f8a4066cb22ad63de8e92d" title="Return the minimum between four values." alt="" coords="381,5,543,47"/>
-<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#a89b0e50db97e9a872e1bed2cb02fc3c0" title=" " alt="" coords="381,71,543,112"/>
-</map>

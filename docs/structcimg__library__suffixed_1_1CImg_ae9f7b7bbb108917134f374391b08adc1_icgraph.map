@@ -1,4 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_slice" name="cimg_library_suffixed::CImg::get_slice">
-<area shape="rect" id="node1" title="Return specified image slice." alt="" coords="215,13,376,54"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a6bde59c7cc8391912052e838260613ba" title="Discard neighboring duplicates in the image buffer, along the specified axis \newinstance." alt="" coords="5,5,167,61"/>
-</map>

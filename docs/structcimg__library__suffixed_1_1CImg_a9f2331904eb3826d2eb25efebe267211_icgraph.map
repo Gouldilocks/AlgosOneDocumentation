@@ -1,9 +1,0 @@
-<map id="cimg_library_suffixed::CImg::min_max" name="cimg_library_suffixed::CImg::min_max">
-<area shape="rect" id="node1" title="Return a reference to the minimum pixel value as well as the maximum pixel value." alt="" coords="304,199,465,240"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a71c14a1ca5936ed87f4b5b83f48735bf" title="Equalize histogram of pixel values \overloading." alt="" coords="34,5,227,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a1fc7b2d9c706dcacb1feab5a151165b8" title="Compute the histogram of pixel values \newinstance." alt="" coords="50,71,211,127"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a6daf74a21b7d7b540474f66f024cc4f9" title="Generate the 3D projection planes of the image instance." alt="" coords="50,151,211,207"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a689f47424dc7c548ebfe53e431409199" title="Select sub&#45;graph in a graph." alt="" coords="50,231,211,287"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a6049c651eefc3a13b8f7d1fc3ff225d7" title="Add random noise to pixel values." alt="" coords="44,312,217,353"/>
-<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a53284105886c5eb684b26e7dba5ede66" title="Compute eigenvalues and eigenvectors of the instance image, viewed as a symmetric matrix." alt="" coords="5,377,256,419"/>
-</map>

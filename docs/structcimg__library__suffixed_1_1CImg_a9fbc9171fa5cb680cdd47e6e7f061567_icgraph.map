@@ -1,9 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_convolve" name="cimg_library_suffixed::CImg::get_convolve">
-<area shape="rect" id="node1" title="Convolve image by a kernel \newinstance." alt="" coords="997,90,1159,131"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a11eac837dd3ce7c4c2beef5c6ec66fdb" title=" " alt="" coords="749,45,949,101"/>
-<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a7de7c1f496802189ecd1832859974ac7" title="Convolve image by a kernel." alt="" coords="751,126,948,167"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a0b1b0ad580bd6d256d80847eb08cb59a" title=" " alt="" coords="501,5,701,61"/>
-<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#ab56d883baca96c5594546cb6857f6ef2" title=" " alt="" coords="501,85,701,141"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,45,453,101"/>
-<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,45,205,101"/>
-</map>

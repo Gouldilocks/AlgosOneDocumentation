@@ -1,4 +1,0 @@
-<map id="get_RGBtoBayer" name="get_RGBtoBayer">
-<area shape="rect" id="node1" title="Convert RGB color image to a Bayer&#45;coded scalar image \newinstance." alt="" coords="155,5,284,32"/>
-<area shape="rect" id="node2" href="$bayer_8h.html#ab4e692d67bb005b4b25555693d15f739" title="Convert RGB color image to a Bayer&#45;coded scalar image." alt="" coords="5,5,107,32"/>
-</map>

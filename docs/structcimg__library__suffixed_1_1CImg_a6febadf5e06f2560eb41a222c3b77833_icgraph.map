@@ -1,6 +1,0 @@
-<map id="cimg_library_suffixed::CImg::cut" name="cimg_library_suffixed::CImg::cut">
-<area shape="rect" id="node1" title="Cut pixel values in specified range." alt="" coords="247,71,408,112"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a586dad073b70d17969b5a26912e36ecc" title="Compute Euclidean distance function to a specified value." alt="" coords="5,5,199,47"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a9c09aed552cc83f2de60b823561cd027" title="Cut pixel values in specified range \newinstance." alt="" coords="9,71,195,112"/>
-<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ae884ac4a2168d7411b004a4e8c6869e5" title="Sharpen image." alt="" coords="7,136,197,177"/>
-</map>

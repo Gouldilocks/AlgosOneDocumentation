@@ -1,5 +1,0 @@
-<map id="cimg_library_suffixed::CImg::get_distance_dijkstra" name="cimg_library_suffixed::CImg::get_distance_dijkstra">
-<area shape="rect" id="node1" title="Compute distance map to a specified value, according to a custom metric (use dijkstra algorithm) \new..." alt="" coords="247,45,408,101"/>
-<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a19ab7fc9d61532c4979bc4a197063807" title="Compute distance to a specified value, according to a custom metric (use dijkstra algorithm)." alt="" coords="5,5,199,61"/>
-<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a5a644130b063181c532251cbe7394ced" title="Compute distance map to a specified value, according to a custom metric (use dijkstra algorithm)...." alt="" coords="21,85,183,141"/>
-</map>

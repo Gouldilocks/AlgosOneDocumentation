@@ -1,6 +1,0 @@
-<map id="item_fourier_filtering" name="item_fourier_filtering">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,164,61"/>
-<area shape="rect" id="node2" href="$wavelet__atrous_8cpp.html#aea9b0356071ddeec385ae04e417fa643" title=" " alt="" coords="263,5,322,32"/>
-<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#aae5df5731fe5a367cec402071108c11c" title="Return the maximum between three values." alt="" coords="212,57,373,98"/>
-<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="421,57,583,98"/>
-</map>
