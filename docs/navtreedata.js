@@ -30,10 +30,10 @@ var NAVTREE =
       [ "Command Line Arguments", "md_README.html#autotoc_md3", null ],
       [ "Algorithms Implemented", "md_README.html#autotoc_md4", null ]
     ] ],
-    [ "Data Structures", "annotated.html", [
-      [ "Data Structures", "annotated.html", "annotated_dup" ],
-      [ "Data Structure Index", "classes.html", null ],
-      [ "Data Fields", "functions.html", [
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ]
@@ -41,7 +41,7 @@ var NAVTREE =
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
-      [ "Globals", "globals.html", [
+      [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
         [ "Macros", "globals_defs.html", null ]

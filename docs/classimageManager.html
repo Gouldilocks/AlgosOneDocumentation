@@ -94,10 +94,11 @@ $(document).ready(function(){initNavTree('classimageManager.html',''); initResiz
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Data Structures</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a>  </div>
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="classimageManager-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">imageManager Class Reference</div>  </div>
 </div><!--header-->
@@ -118,7 +119,7 @@ Collaboration diagram for imageManager:</div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
-Data Structures</h2></td></tr>
+Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structimageManager_1_1PointerCompare.html">PointerCompare</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -1131,7 +1132,7 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>special deletion of pictures which plugs a memory leak this funciton is needed because of the way that <a class="el" href="classimageManager.html" title="Adapter class for CIMG library.">imageManager</a> is implemented. when chooseFirst is called on the first wall, it returns a vector of picture*, and that is the failed_Placements vector. However, when the second wall has chooseFirst called, then the failed_Placements are never deleted if there are pictures that could not fit on the second wall. So, this function is called to delete those failed placements after the second wall has had <a class="el" href="classimageManager.html#a9e4d17c4137ada5d035d232c2af70310">chooseFirst()</a> called. </p>
+<p>special deletion of pictures which plugs a memory leak this funciton is needed because of the way that <a class="el" href="classimageManager.html" title="Adapter class for CIMG library.">imageManager</a> is implemented. when <a class="el" href="classimageManager.html#a9e4d17c4137ada5d035d232c2af70310">chooseFirst()</a> is called on the first wall, it returns a vector of pointers to picture objects, being <a class="el" href="classimageManager.html#ab6925415393a9b002b4e1d2b91325eec">imageManager::failed_Placements</a>. However, when the second wall has chooseFirst called, then <a class="el" href="classimageManager.html#ab6925415393a9b002b4e1d2b91325eec">imageManager::failed_Placements</a> are never deleted if there are picture objects that could not fit on the second <a class="el" href="classimageManager.html" title="Adapter class for CIMG library.">imageManager</a>. So, this function is called to delete <a class="el" href="classimageManager.html#ab6925415393a9b002b4e1d2b91325eec">imageManager::failed_Placements</a> after the second wall has had <a class="el" href="classimageManager.html#a9e4d17c4137ada5d035d232c2af70310">chooseFirst()</a> called. </p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -1595,7 +1596,7 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<h2 class="groupheader">Field Documentation</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
 <a id="a8f8674f7e2b10ae417561854e999f413"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8f8674f7e2b10ae417561854e999f413">&#9670;&nbsp;</a></span>background</h2>
 
