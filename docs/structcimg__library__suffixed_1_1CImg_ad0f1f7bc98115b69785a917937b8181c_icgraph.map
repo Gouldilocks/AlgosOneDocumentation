@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::CImg::_linear_atXY" name="cimg_library_suffixed::CImg::_linear_atXY">
+<area shape="rect" id="node1" title=" " alt="" coords="288,152,449,193"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ad93e8ff81e78bf78b9f1153ef6e55ad4" title=" " alt="" coords="31,5,215,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#af3c29f70168c4443e3f6f887834819b0" title="Blur image anisotropically, directed by a field of diffusion tensors." alt="" coords="41,71,204,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a7492ff3af8a30edeb88d2fcfb1ca55ca" title="Warp image content by a warping field \newinstance." alt="" coords="23,152,222,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#ab754037c015bd27f361ed70275497490" title="Return pixel value, using linear interpolation and Neumann boundary conditions for the X and Y&#45;coordi..." alt="" coords="17,217,229,259"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg_1_1__functor4d__streamline2d__oriented.html#aaf4ebdef352f0c57658a8ca758633519" title=" " alt="" coords="5,283,240,339"/>
+</map>

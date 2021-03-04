@@ -1,0 +1,6 @@
+<map id="cimg_library_suffixed::CImg::FFT" name="cimg_library_suffixed::CImg::FFT">
+<area shape="rect" id="node1" title="Compute 1D Fast Fourier Transform, along a specified axis." alt="" coords="243,71,404,112"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ae87f18893ebb5f2df9d540f764493515" title="Compute n&#45;D Fast Fourier Transform." alt="" coords="19,5,181,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#ac07f7527b6223ed7b6c4e02f6feab7b3" title="Compute a 1D Fast Fourier Transform, along specified axis." alt="" coords="8,71,192,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#aa16f6c7a2f9002044184c7b64e9f1177" title="Compute 1D Fast Fourier Transform, along a specified axis." alt="" coords="5,136,195,177"/>
+</map>

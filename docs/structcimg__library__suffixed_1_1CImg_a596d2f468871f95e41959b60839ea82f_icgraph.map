@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::cubic_atXYZ_c" name="cimg_library_suffixed::CImg::cubic_atXYZ_c">
+<area shape="rect" id="node1" title="Return clamped pixel value, using cubic interpolation and Dirichlet boundary conditions for the XYZ&#45;c..." alt="" coords="252,39,419,80"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ad80b6ce9d8d44e17a43dcda51839d4da" title=" " alt="" coords="13,5,197,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a7492ff3af8a30edeb88d2fcfb1ca55ca" title="Warp image content by a warping field \newinstance." alt="" coords="5,71,204,112"/>
+</map>

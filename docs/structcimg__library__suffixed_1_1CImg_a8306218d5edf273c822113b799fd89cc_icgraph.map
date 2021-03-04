@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::load_medcon_external" name="cimg_library_suffixed::CImg::load_medcon_external">
+<area shape="rect" id="node1" title="Load image from a DICOM file, using XMedcon&#39;s external tool &#39;medcon&#39;." alt="" coords="231,50,451,91"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a06f865dc87a10e7102931bbe99feb0f3" title="Load image from a DICOM file, using XMedcon&#39;s external tool &#39;medcon&#39; \newinstance." alt="" coords="5,5,183,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="11,86,177,127"/>
+</map>

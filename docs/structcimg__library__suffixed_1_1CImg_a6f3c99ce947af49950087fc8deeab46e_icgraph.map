@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::CImg::get_columns" name="cimg_library_suffixed::CImg::get_columns">
+<area shape="rect" id="node1" title="Return specified range of image columns \inplace." alt="" coords="248,119,409,160"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a88a5e4b26e0b8cf4da7a3c0b8ff152f8" title="Return specified range of image columns." alt="" coords="6,5,199,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a1821adb719bc549d56a7ce7cf94dc5a3" title="Return specified image column." alt="" coords="22,71,183,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a158d3e9bd97132548046647db70e0fc5" title=" " alt="" coords="22,151,183,207"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#acae5385f7b2692787b1c50fa1663e587" title="Split image into a list along specified axis." alt="" coords="5,232,200,273"/>
+</map>

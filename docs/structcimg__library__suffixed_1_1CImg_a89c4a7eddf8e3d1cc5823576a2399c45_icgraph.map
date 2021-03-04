@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::CImg::det" name="cimg_library_suffixed::CImg::det">
+<area shape="rect" id="node1" title="Compute the determinant of the image, viewed as a matrix." alt="" coords="749,79,911,120"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a916472d313a2058a1852864b1235ec02" title="Invert the instance image, viewed as a matrix." alt="" coords="513,5,689,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#ad4f0fc6433a92e06bc76fb7a430e3c85" title=" " alt="" coords="501,71,701,127"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a376a180307f95b4bdab0b47a8878a6df" title="Solve a system of linear equations." alt="" coords="515,152,688,193"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,71,453,127"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,71,205,127"/>
+</map>

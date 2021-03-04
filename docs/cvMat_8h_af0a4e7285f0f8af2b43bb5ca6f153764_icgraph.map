@@ -1,0 +1,7 @@
+<map id="assign" name="assign">
+<area shape="rect" id="node1" title=" " alt="" coords="283,56,347,83"/>
+<area shape="rect" id="node2" href="$vrml_8h.html#a06c51ad674c0972a50bb827c4f7faecd" title="Load a 3d object from a .VRML file (internal)." alt="" coords="140,5,235,32"/>
+<area shape="rect" id="node4" href="$cvMat_8h.html#aa6a0bb0aefe979e9c32f8db3161c896a" title=" " alt="" coords="159,56,215,83"/>
+<area shape="rect" id="node5" href="$tiff__stream_8h.html#ac8cdbcceefaf774b1d5cd6804f982b94" title="Load images from a TIFF file." alt="" coords="150,107,225,133"/>
+<area shape="rect" id="node3" href="$vrml_8h.html#ae3cb0a93160739d3c1faf2740e74ec1f" title="Load a 3d object from a .VRML file." alt="" coords="5,5,92,32"/>
+</map>

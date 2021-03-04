@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::get_shared_channels" name="cimg_library_suffixed::CImg::get_shared_channels">
+<area shape="rect" id="node1" title="Return a shared&#45;memory image referencing a range of channels of the image instance." alt="" coords="220,53,429,94"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a18c8db4a4b657383cf86eb1ae7767f32" title=" " alt="" coords="5,5,172,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ade4da2a1f2ebec7e4f0676f335f7bd09" title="Return a shared&#45;memory image referencing one channel of the image instance." alt="" coords="8,85,169,141"/>
+</map>

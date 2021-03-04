@@ -1,0 +1,13 @@
+<map id="cimg_library_suffixed::CImg::is_sameXYZ" name="cimg_library_suffixed::CImg::is_sameXYZ">
+<area shape="rect" id="node1" title="Test if image width, height and depth are equal to specified values." alt="" coords="280,373,441,414"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#af3c29f70168c4443e3f6f887834819b0" title="Blur image anisotropically, directed by a field of diffusion tensors." alt="" coords="37,5,200,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ab19d123867d5a2ed56fe1b016267bfe7" title="Blur image, with the joint bilateral filter." alt="" coords="37,85,200,141"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a7d164f8fc5dd02c93927b74d14809401" title="Blur image, with the image guided filter \newinstance." alt="" coords="38,165,199,221"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#aa5acfde7f0139555fc79bbafb28aae8e" title="Blur image using patch&#45;based space \newinstance." alt="" coords="38,245,199,301"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#ab461b8b649f269f33f4eedba90d1a84e" title="Compute distance map to a specified value, according to a custom metric (use dijkstra algorithm) \new..." alt="" coords="38,325,199,381"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a2b1addf2e74607a44640f82f88916d37" title="Compute distance map to one source point, according to a custom metric (use fast marching algorithm)." alt="" coords="38,405,199,461"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg.html#a7492ff3af8a30edeb88d2fcfb1ca55ca" title="Warp image content by a warping field \newinstance." alt="" coords="19,486,218,527"/>
+<area shape="rect" id="node9" href="$structcimg__library__suffixed_1_1CImg.html#a2a10b6f2beffaeb8fb84877e724a2ea0" title="Test if image width, height and depth are the same as that of another image." alt="" coords="9,551,228,593"/>
+<area shape="rect" id="node10" href="$structcimg__library__suffixed_1_1CImg.html#aed4127690c3d25d24543efc4383b31b7" title="Test if image width, height, depth and spectrum are equal to specified values." alt="" coords="5,617,232,658"/>
+<area shape="rect" id="node11" href="$structcimg__library__suffixed_1_1CImg.html#a6c93c9f308c168756831884f1aa829af" title="Compute watershed transform." alt="" coords="15,682,222,723"/>
+</map>

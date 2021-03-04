@@ -1,0 +1,4 @@
+<map id="cimg_library_suffixed::CImg::get_diffusion_tensors" name="cimg_library_suffixed::CImg::get_diffusion_tensors">
+<area shape="rect" id="node1" title="Compute field of diffusion tensors for edge&#45;preserving smoothing \newinstance." alt="" coords="216,5,377,61"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#adf40aeb8a86a6a019e4235fb0c490c1e" title="Blur image anisotropically, in an edge&#45;preserving way." alt="" coords="5,5,168,61"/>
+</map>

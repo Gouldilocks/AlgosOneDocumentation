@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::CImg::get_permute_axes" name="cimg_library_suffixed::CImg::get_permute_axes">
+<area shape="rect" id="node1" title="Permute axes order \newinstance." alt="" coords="284,144,476,185"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a608588d176c38a0779524b0f2bbda998" title=" " alt="" coords="9,5,232,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ad2deff4b908f39e28f625a7db1b946ef" title="Construct image from memory buffer with specified size and pixel ordering scheme." alt="" coords="35,71,207,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a2b3d9ccf339d46f21ea41319082dd155" title="Transpose the image, viewed as a matrix \newinstance." alt="" coords="40,137,201,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a0c1fe12517dfb17cd1130db2f9e78d29" title="Load image from a EXR file." alt="" coords="23,217,218,259"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a5ad8c5c704e52395817c50f39646c474" title="Permute axes order." alt="" coords="5,283,236,324"/>
+</map>

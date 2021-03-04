@@ -1,0 +1,52 @@
+<map id="cimg_library_suffixed::cimg::type::max" name="cimg_library_suffixed::cimg::type::max">
+<area shape="rect" id="node1" title=" " alt="" coords="539,1702,700,1743"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a344c3e368862cff72ba25825415e9bbf" title=" " alt="" coords="28,1715,205,1771"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1cimg_1_1type.html#ab8b72e82c0f03c5494f32ccde25940f9" title=" " alt="" coords="303,319,464,361"/>
+<area shape="rect" id="node13" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01bool_01_4.html#a58d55cbfed8b827807cce83e1684a636" title=" " alt="" coords="291,437,476,478"/>
+<area shape="rect" id="node14" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01unsigned_01char_01_4.html#a97098b778e0e303ac953ec0a1e549824" title=" " alt="" coords="297,503,470,559"/>
+<area shape="rect" id="node15" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01char_01_4.html#a6d40e512f766ed9cbd2a17a82373dc97" title=" " alt="" coords="291,583,476,625"/>
+<area shape="rect" id="node16" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01signed_01char_01_4.html#ab659908621902fda17a1378fd410a928" title=" " alt="" coords="303,649,464,705"/>
+<area shape="rect" id="node17" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01unsigned_01short_01_4.html#a8169a54f647ae5c58d6944affd19124f" title=" " alt="" coords="297,729,470,785"/>
+<area shape="rect" id="node18" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01short_01_4.html#a9bc37d2ac7c6fe2063ec0b1596592900" title=" " alt="" coords="288,810,479,851"/>
+<area shape="rect" id="node19" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01unsigned_01int_01_4.html#ac2a5f870a911680eddedb55c597d84fb" title=" " alt="" coords="297,876,470,932"/>
+<area shape="rect" id="node20" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01int_01_4.html#ab523c5c5c529a47f19ca9588b0cd33c7" title=" " alt="" coords="296,957,471,998"/>
+<area shape="rect" id="node21" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01cimg__uint64_01_4.html#a8ceda371208b96ed2a0902104334c5eb" title=" " alt="" coords="286,1023,481,1079"/>
+<area shape="rect" id="node22" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01cimg__int64_01_4.html#ae772107b570b978c588ef92f4b6a19f6" title=" " alt="" coords="290,1103,477,1159"/>
+<area shape="rect" id="node23" href="$structcimg__library__suffixed_1_1CImg.html#a376d6a45a4f3122f23a9b352fd56adf0" title="Compute minimal path in a graph, using the Dijkstra algorithm." alt="" coords="290,1183,477,1225"/>
+<area shape="rect" id="node24" href="$structcimg__library__suffixed_1_1CImg.html#ac1f792d60d2ced2cfa529ba0f7efb0e7" title="Draw 1D graph." alt="" coords="276,1249,491,1290"/>
+<area shape="rect" id="node25" href="$structcimg__library__suffixed_1_1CImg.html#a43ac987a2986717d1c115844e3b6501c" title="Estimate displacement field between two images \newinstance." alt="" coords="303,1315,464,1371"/>
+<area shape="rect" id="node26" href="$structcimg__library__suffixed_1_1CImg.html#aad353fc91b0c6ef3c0251f4f46a96150" title="Erode image by a structuring element \newinstance." alt="" coords="282,1395,485,1437"/>
+<area shape="rect" id="node27" href="$structcimg__library__suffixed_1_1CImg.html#a3787f8eb2c642164a3fb1f2b93c9dcc5" title="Index multi&#45;valued pixels regarding to a specified colormap \newinstance." alt="" coords="282,1461,485,1502"/>
+<area shape="rect" id="node28" href="$structcimg__library__suffixed_1_1cimg_1_1type.html#ac818c4773392cc85c58676270d752f90" title=" " alt="" coords="303,1526,464,1567"/>
+<area shape="rect" id="node29" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01bool_01_4.html#a247a713e27969baff3a43cf7a55de1aa" title=" " alt="" coords="292,1591,475,1633"/>
+<area shape="rect" id="node30" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01unsigned_01char_01_4.html#a17615035b6a1bf38e7b91e237f56dc6e" title=" " alt="" coords="297,1657,470,1713"/>
+<area shape="rect" id="node31" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01char_01_4.html#a0b66f27115dde4a55496a62c7241bccf" title=" " alt="" coords="292,1738,475,1779"/>
+<area shape="rect" id="node32" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01signed_01char_01_4.html#aa9548233a0fdbc5ad6dfe28599d04e5c" title=" " alt="" coords="303,1804,464,1860"/>
+<area shape="rect" id="node33" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01unsigned_01short_01_4.html#a85421f6823f6b27172e3018c851f8fc4" title=" " alt="" coords="297,1884,470,1940"/>
+<area shape="rect" id="node34" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01short_01_4.html#a49d9723abe2149d1573489594dbb3e40" title=" " alt="" coords="290,1965,477,2006"/>
+<area shape="rect" id="node35" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01unsigned_01int_01_4.html#a82e7fa61ed58b84a312383144b3f35c5" title=" " alt="" coords="297,2031,470,2087"/>
+<area shape="rect" id="node36" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01int_01_4.html#abd4229c9635ead67c13026ec085460d0" title=" " alt="" coords="298,2111,469,2153"/>
+<area shape="rect" id="node37" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01cimg__uint64_01_4.html#a0a4ac834a08950452bf4a8339ef2e44f" title=" " alt="" coords="286,2177,481,2233"/>
+<area shape="rect" id="node38" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01cimg__int64_01_4.html#a157ff55cb3154bfebec2250d24409e07" title=" " alt="" coords="290,2257,477,2313"/>
+<area shape="rect" id="node39" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01double_01_4.html#a88a6e089caf31174bfec6bbb2dd57a59" title=" " alt="" coords="303,2337,464,2393"/>
+<area shape="rect" id="node40" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01long_01double_01_4.html#a4e46f5dc1b42e64e927d05926a95fef2" title=" " alt="" coords="288,2417,479,2473"/>
+<area shape="rect" id="node41" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01double_01_4.html#a92b3b5611e041d2d92073bc78cd1ca2b" title=" " alt="" coords="303,2497,464,2553"/>
+<area shape="rect" id="node42" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01float_01_4.html#aa2f6aa9ed1a9bf37f1bd44378324fe41" title=" " alt="" coords="303,2577,464,2633"/>
+<area shape="rect" id="node43" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01long_01double_01_4.html#a9681404bc847cae1a4742a74b4e307a3" title=" " alt="" coords="288,2657,479,2713"/>
+<area shape="rect" id="node44" href="$structcimg__library__suffixed_1_1cimg_1_1type.html#aa487045af10501b8718e50735aa13317" title=" " alt="" coords="303,2738,464,2779"/>
+<area shape="rect" id="node45" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01char_01_4.html#a271d2bea754ec796bbf82c8891c56bfc" title=" " alt="" coords="288,2803,479,2845"/>
+<area shape="rect" id="node46" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01signed_01char_01_4.html#a8482b4ba4ba2d0abe0836794510ec37f" title=" " alt="" coords="303,2869,464,2925"/>
+<area shape="rect" id="node47" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01short_01_4.html#ad2418047e034e2914b905c11ea3328c8" title=" " alt="" coords="286,2950,481,2991"/>
+<area shape="rect" id="node48" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01int_01_4.html#ae9073668a36e876421e817427a4fc8e7" title=" " alt="" coords="294,3015,473,3057"/>
+<area shape="rect" id="node49" href="$structcimg__library__suffixed_1_1cimg_1_1type_3_01cimg__int64_01_4.html#aaf44ef06647e7e948d39265a19fb949a" title=" " alt="" coords="290,3081,477,3137"/>
+<area shape="rect" id="node50" href="$structcimg__library__suffixed_1_1CImg.html#a1c5936e2a0499030ddf5a2e5e07eb128" title="Compute the PSNR (Peak Signal&#45;to&#45;Noise Ratio) between two images." alt="" coords="297,3162,470,3203"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ae725a1ef1d202934fd989edbcf46aeb0" title=" " alt="" coords="5,86,228,127"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a29cc15c720928964dde050649efa3c84" title=" " alt="" coords="27,152,206,208"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a9ff3c4ef8b0c53e73b69487b6f3808ad" title=" " alt="" coords="27,232,206,288"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#af77aaef6760a3b190c743f2ff3aa527d" title=" " alt="" coords="27,312,206,368"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg.html#abc731948a85028bbfdad016e1156fab0" title=" " alt="" coords="27,392,206,448"/>
+<area shape="rect" id="node9" href="$structcimg__library__suffixed_1_1CImg.html#a9951c0b2bb68553c828533834dc7ea12" title=" " alt="" coords="27,472,206,528"/>
+<area shape="rect" id="node10" href="$structcimg__library__suffixed_1_1CImg.html#a7ab89f8a2badf6f8974c07f5b3a8e016" title="Return clamped pixel value, using cubic interpolation and Dirichlet boundary conditions for the X&#45;coo..." alt="" coords="9,553,224,594"/>
+<area shape="rect" id="node11" href="$structcimg__library__suffixed_1_1CImg.html#a1c1ffffa592f30fe43d4130d385286c7" title=" " alt="" coords="31,619,203,675"/>
+<area shape="rect" id="node12" href="$structcimg__library__suffixed_1_1CImg.html#a6fc627ced6967d3108db0ac017c524de" title="Return clamped pixel value, using cubic interpolation and Dirichlet boundary conditions for the X,..." alt="" coords="31,5,203,61"/>
+</map>

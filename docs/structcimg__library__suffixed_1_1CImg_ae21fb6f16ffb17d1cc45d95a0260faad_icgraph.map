@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::CImg::get_rows" name="cimg_library_suffixed::CImg::get_rows">
+<area shape="rect" id="node1" title="Return specified range of image rows." alt="" coords="248,119,409,161"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a158d3e9bd97132548046647db70e0fc5" title=" " alt="" coords="22,5,183,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a435e98495c5b375835f4907d856b7319" title="Return specified image row." alt="" coords="7,86,198,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#acae5385f7b2692787b1c50fa1663e587" title="Split image into a list along specified axis." alt="" coords="5,151,200,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a5670c3567eaefbfdfc8b32922dfd918a" title="Return specified range of image rows \inplace." alt="" coords="18,217,187,258"/>
+</map>

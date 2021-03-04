@@ -1,0 +1,9 @@
+<map id="cimg_library_suffixed::cimg::dialog" name="cimg_library_suffixed::cimg::dialog">
+<area shape="rect" id="node1" title="Display a simple dialog box, and wait for the user&#39;s response." alt="" coords="5,169,167,211"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a4dfe9a9fb78df031a5750e7898af3d9e" title="Draw an image." alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ad5a305cee7307af3618c2c2a68ee39c1" title="Draw a 2D line." alt="" coords="215,71,376,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a35a7a9b2919f097064f19a469d8e5a6d" title="Draw a text string." alt="" coords="215,136,376,177"/>
+<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="215,201,376,243"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#adf42a4d63a14a4199e4703743b217075" title="Resize image to new dimensions." alt="" coords="215,267,376,308"/>
+<area shape="rect" id="node7" href="$namespacecimg__library__suffixed_1_1cimg.html#a79aef0cbcf66ceb71c2b74cb66b4deb2" title="Avoid warning messages due to unused parameters. Do nothing actually." alt="" coords="215,332,376,373"/>
+</map>

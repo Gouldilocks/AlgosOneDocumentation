@@ -1,0 +1,10 @@
+<map id="cimg_library_suffixed::CImgList::pixel_type" name="cimg_library_suffixed::CImgList::pixel_type">
+<area shape="rect" id="node1" title="Return the type of image pixel values as a C string." alt="" coords="244,253,407,294"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#af514efa37d021bd02a95186531139a38" title=" " alt="" coords="20,5,181,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#af99c31c0d24c46734145e1910ca44323" title=" " alt="" coords="20,85,181,141"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#afd58a021cbb8c7fbfa682465b46872f2" title=" " alt="" coords="20,165,181,221"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImgList.html#af8a6b01f20b2d459e5abe6b99836ea9a" title=" " alt="" coords="20,245,181,301"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImgList.html#a6ef5394483360f2220873d2b8b856789" title="Serialize a CImgList&lt;T&gt; instance into a raw CImg&lt;unsigned char&gt; buffer." alt="" coords="20,325,181,381"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImgList.html#ab2437a10d0bbe2f4d5e91a49dc5cd105" title="Unserialize a CImg&lt;unsigned char&gt; serialized buffer into a CImgList&lt;T&gt; list." alt="" coords="20,405,181,461"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImgList.html#a2ad854dec4e99ffe2db1bf551ac388b6" title="Print information about the list on the standard output." alt="" coords="5,486,196,527"/>
+</map>

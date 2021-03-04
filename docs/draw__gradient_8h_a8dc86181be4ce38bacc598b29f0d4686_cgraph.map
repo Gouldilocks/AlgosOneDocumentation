@@ -1,0 +1,9 @@
+<map id="draw_gradient" name="draw_gradient">
+<area shape="rect" id="node1" title="Draw a gradient with various shape and profile." alt="" coords="5,97,120,124"/>
+<area shape="rect" id="node2" href="$draw__gradient_8h.html#ada8b13553f30e30bacf65f487e91aa74" title=" " alt="" coords="168,5,339,32"/>
+<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a0852e9ad458e82d2c003844cd92bdb8a" title="Return absolute value of a value." alt="" coords="173,57,334,98"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#aae5df5731fe5a367cec402071108c11c" title="Return the maximum between three values." alt="" coords="173,122,334,163"/>
+<area shape="rect" id="node6" href="$namespacecimg__library__suffixed_1_1cimg.html#a091c508a646a5459c00aa2b5ac9ea5e5" title="Return the minimum between three values." alt="" coords="173,187,334,229"/>
+<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="387,122,548,163"/>
+<area shape="rect" id="node7" href="$namespacecimg__library__suffixed_1_1cimg.html#ad5459593e7f8a4066cb22ad63de8e92d" title="Return the minimum between four values." alt="" coords="387,187,548,229"/>
+</map>

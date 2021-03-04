@@ -1,0 +1,52 @@
+<map id="cimg_library_suffixed::cimg::exception_mode" name="cimg_library_suffixed::cimg::exception_mode">
+<area shape="rect" id="node1" title=" " alt="" coords="1432,1948,1611,1989"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a6d4f42e2943b1ebf361fc7464e5e653e" title=" " alt="" coords="1201,5,1363,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#a666592ad2e1ecef3317d060696ebbfaa" title=" " alt="" coords="268,291,429,347"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#aab8db7528c32a8fd3a3dc471e662782e" title=" " alt="" coords="1201,1273,1363,1315"/>
+<area shape="rect" id="node6" href="$namespacecimg__library__suffixed_1_1cimg.html#acfd3624d72ed7f79c82ec45646c685e7" title="Display a warning message on the default output stream." alt="" coords="761,1041,923,1083"/>
+<area shape="rect" id="node29" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="17,1580,183,1621"/>
+<area shape="rect" id="node30" href="$structcimg__library__suffixed_1_1CImgList.html#a63bd67d8dd2301933df7decb4612916e" title="Load a list from a file." alt="" coords="5,2116,195,2157"/>
+<area shape="rect" id="node31" href="$structcimg__library__suffixed_1_1CImg.html#ae8ee2dbbc634767b37efabe0f0eb7104" title="Load image from a RAW Color Camera file, using external tool &#39;dcraw&#39;." alt="" coords="265,1923,432,1979"/>
+<area shape="rect" id="node32" href="$structcimg__library__suffixed_1_1CImgList.html#aa1c97a6c05ba746d02440eec0ad2e602" title="Load an image from a video file using the external tool &#39;ffmpeg&#39;." alt="" coords="267,2003,431,2059"/>
+<area shape="rect" id="node33" href="$structcimg__library__suffixed_1_1CImg.html#a34578e61c66a0046835660bada43e3d6" title="Load image using GraphicsMagick&#39;s external tool &#39;gm&#39;." alt="" coords="252,2083,445,2139"/>
+<area shape="rect" id="node34" href="$structcimg__library__suffixed_1_1CImg.html#a8278afa0b313d0f3465ef91dabdac549" title="Load image using ImageMagick&#39;s external tool &#39;convert&#39;." alt="" coords="259,2163,438,2219"/>
+<area shape="rect" id="node35" href="$namespacecimg__library__suffixed_1_1cimg.html#a90c05fe6fc049cba75f3a12807e97158" title="Load file from network as a local temporary file." alt="" coords="268,1857,429,1899"/>
+<area shape="rect" id="node36" href="$structcimg__library__suffixed_1_1CImg.html#a180e60402e08fc7714c737e1974b9870" title="Load image using various non&#45;native ways." alt="" coords="245,2244,452,2285"/>
+<area shape="rect" id="node43" href="$structcimg__library__suffixed_1_1CImg.html#a6b77dc615829820ba0675409feaef3d8" title=" " alt="" coords="503,1799,713,1840"/>
+<area shape="rect" id="node44" href="$namespacecimg__library__suffixed_1_1cimg.html#a01a3b743897290604513ea6d847c9886" title=" " alt="" coords="761,1479,923,1520"/>
+<area shape="rect" id="node46" href="$namespacecimg__library__suffixed_1_1cimg.html#a493220746e5df3466568bd7862825008" title=" " alt="" coords="761,1679,923,1720"/>
+<area shape="rect" id="node48" href="$namespacecimg__library__suffixed_1_1cimg.html#aeafab144366eddd11360f32f468fa4af" title="Set current \CImg exception mode." alt="" coords="1193,2285,1371,2327"/>
+<area shape="rect" id="node49" href="$namespacecimg__library__suffixed_1_1cimg.html#a56c2dbfe99d9f6e6bc1be9d03b0ddaaa" title="Try to guess format from an image file." alt="" coords="268,2309,429,2351"/>
+<area shape="rect" id="node50" href="$structcimg__library__suffixed_1_1CImg.html#a9de9f600cbcf0f7d865c33efb6cac895" title="Assign pixels values from a specified expression." alt="" coords="1180,2427,1384,2468"/>
+<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#ada686776cc71803df391eea79cd1b3e5" title="Get/set default output stream for the \CImg library messages." alt="" coords="971,1205,1132,1247"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a01444df91267a5b4cb8105ac5886f12f" title=" " alt="" coords="262,609,435,665"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg.html#aec24d1f432932c808966d2a74c7aecb1" title=" " alt="" coords="243,1361,454,1403"/>
+<area shape="rect" id="node9" href="$structcimg__library__suffixed_1_1CImg.html#aaa44f102ce0bd97a01d128fe431c1bb2" title=" " alt="" coords="245,1479,453,1520"/>
+<area shape="rect" id="node10" href="$structcimg__library__suffixed_1_1CImg.html#a8f2efb14f687ccdb85c060757ca5a306" title=" " alt="" coords="250,1544,447,1585"/>
+<area shape="rect" id="node11" href="$structcimg__library__suffixed_1_1CImg.html#a0735cc3a6a6f0639ff34e98086cb7992" title=" " alt="" coords="245,543,452,584"/>
+<area shape="rect" id="node12" href="$structcimg__library__suffixed_1_1CImg.html#a4ee4502761ce479392f2641211a5694f" title=" " alt="" coords="244,689,453,731"/>
+<area shape="rect" id="node13" href="$vrml_8h.html#a06c51ad674c0972a50bb827c4f7faecd" title="Load a 3d object from a .VRML file (internal)." alt="" coords="301,1610,396,1637"/>
+<area shape="rect" id="node14" href="$structcimg__library__suffixed_1_1CImgList.html#acdbd0db44c3746e62fb05c914c4fbb1f" title=" " alt="" coords="268,755,429,811"/>
+<area shape="rect" id="node15" href="$structcimg__library__suffixed_1_1CImg.html#ae9faefb948746c5d646fe5c80f28c4fc" title=" " alt="" coords="243,1244,455,1285"/>
+<area shape="rect" id="node16" href="$structcimg__library__suffixed_1_1CImgList.html#af99c31c0d24c46734145e1910ca44323" title=" " alt="" coords="268,967,429,1023"/>
+<area shape="rect" id="node17" href="$structcimg__library__suffixed_1_1CImg.html#a78929d9b9d2af829f3e3fc576e99b61d" title=" " alt="" coords="245,1661,453,1703"/>
+<area shape="rect" id="node18" href="$structcimg__library__suffixed_1_1CImg.html#aa41e292505817af60a4896ed19302304" title=" " alt="" coords="243,1727,454,1768"/>
+<area shape="rect" id="node19" href="$structcimg__library__suffixed_1_1CImg.html#a65be74d7d22bb71e708b3beb8e9cae49" title=" " alt="" coords="244,836,453,877"/>
+<area shape="rect" id="node20" href="$structcimg__library__suffixed_1_1CImg.html#aab5e304310373159e357250314e99da6" title=" " alt="" coords="245,1792,452,1833"/>
+<area shape="rect" id="node21" href="$structcimg__library__suffixed_1_1CImg.html#a4bcf33abcee45165d20d9530f6c85242" title=" " alt="" coords="245,1048,452,1089"/>
+<area shape="rect" id="node22" href="$structcimg__library__suffixed_1_1CImg.html#a3b62455c9523881fa64a47d8362c3d80" title=" " alt="" coords="243,1179,455,1220"/>
+<area shape="rect" id="node23" href="$structcimg__library__suffixed_1_1CImg.html#a06c5e27c1dde885a96cfdad05835644e" title=" " alt="" coords="247,901,451,943"/>
+<area shape="rect" id="node24" href="$structcimg__library__suffixed_1_1CImg.html#a974a21a1c7242ff9b08e4590701d920d" title=" " alt="" coords="243,1113,455,1155"/>
+<area shape="rect" id="node25" href="$structcimg__library__suffixed_1_1CImg.html#af3156209f78b36322ff7787fcd9f1404" title="Construct image with specified size and initialize pixel values from a memory buffer \overloading." alt="" coords="518,224,698,265"/>
+<area shape="rect" id="node26" href="$matlab_8h.html#ac2ea455032f5c9a258490c89394c5cad" title=" " alt="" coords="580,290,636,317"/>
+<area shape="rect" id="node27" href="$structcimg__library__suffixed_1_1CImg.html#adbf6146771336af8f5477c89d9124941" title="Compute eigenvalues and eigenvectors of the instance image, viewed as a matrix." alt="" coords="521,341,695,383"/>
+<area shape="rect" id="node28" href="$namespacecimg__library__suffixed_1_1cimg.html#ac436b94e6ffef5fd420bb3d7c05fd416" title="Close a file." alt="" coords="527,1361,689,1403"/>
+<area shape="rect" id="node37" href="$structcimg__library__suffixed_1_1CImgList.html#ac07f7527b6223ed7b6c4e02f6feab7b3" title="Compute a 1D Fast Fourier Transform, along specified axis." alt="" coords="516,407,700,448"/>
+<area shape="rect" id="node38" href="$namespacecimg__library__suffixed_1_1cimg.html#a6b210044fcdb52b1d649ab19006de4ad" title="Read data from file." alt="" coords="527,721,689,763"/>
+<area shape="rect" id="node39" href="$namespacecimg__library__suffixed_1_1cimg.html#ad44a7e96cd1e9cdef83f4ffe235dd1fb" title="Write data to file." alt="" coords="527,1041,689,1083"/>
+<area shape="rect" id="node40" href="$ipl_8h.html#a17b22f761749fcc57e57d1c8bf0ec753" title=" " alt="" coords="555,473,661,499"/>
+<area shape="rect" id="node41" href="$structcimg__library__suffixed_1_1CImgList.html#a6ef5394483360f2220873d2b8b856789" title="Serialize a CImgList&lt;T&gt; instance into a raw CImg&lt;unsigned char&gt; buffer." alt="" coords="527,523,689,579"/>
+<area shape="rect" id="node42" href="$structcimg__library__suffixed_1_1CImg.html#a916472d313a2058a1852864b1235ec02" title="Invert the instance image, viewed as a matrix." alt="" coords="520,604,696,645"/>
+<area shape="rect" id="node45" href="$namespacecimg__library__suffixed_1_1cimg.html#a9aafdb8732ff87625052ce2723f8a516" title="Open a file." alt="" coords="527,1479,689,1520"/>
+<area shape="rect" id="node47" href="$structcimg__library__suffixed_1_1CImgList.html#a7186fe44f8d6ce58583e3177ff802445" title="Save list into a file." alt="" coords="512,1864,704,1905"/>
+</map>

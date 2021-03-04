@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,60,127"/>
+<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a40fb5fe2a0d260120909c617dfd3b07b" title="Return the basename of a filename." alt="" coords="108,5,269,47"/>
+<area shape="rect" id="node3" href="$curve__editor2d_8cpp.html#a546641f3d7873c310453fdffb15bbd1a" title=" " alt="" coords="133,71,244,98"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#aae5df5731fe5a367cec402071108c11c" title="Return the maximum between three values." alt="" coords="108,123,269,164"/>
+<area shape="rect" id="node6" href="$namespacecimg__library__suffixed.html#a48465f36a81f510ce3368f0e0200532e" title=" " alt="" coords="108,188,269,229"/>
+<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="319,123,480,164"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a2b3d9ccf339d46f21ea41319082dd155" title="Transpose the image, viewed as a matrix \newinstance." alt="" coords="317,188,481,229"/>
+</map>

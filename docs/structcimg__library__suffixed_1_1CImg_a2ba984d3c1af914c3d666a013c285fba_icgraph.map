@@ -1,0 +1,4 @@
+<map id="cimg_library_suffixed::CImg::cubic_atXYZ" name="cimg_library_suffixed::CImg::cubic_atXYZ">
+<area shape="rect" id="node1" title="Return pixel value, using cubic interpolation and Dirichlet boundary conditions for the X,..." alt="" coords="225,13,387,54"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a596d2f468871f95e41959b60839ea82f" title="Return clamped pixel value, using cubic interpolation and Dirichlet boundary conditions for the XYZ&#45;c..." alt="" coords="5,5,177,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::_cimg_math_parser::mp_matrix_eig" name="cimg_library_suffixed::CImg::_cimg_math_parser::mp_matrix_eig">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,205,87"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a2b3d9ccf339d46f21ea41319082dd155" title="Transpose the image, viewed as a matrix \newinstance." alt="" coords="264,5,428,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a53284105886c5eb684b26e7dba5ede66" title="Compute eigenvalues and eigenvectors of the instance image, viewed as a symmetric matrix." alt="" coords="253,71,439,112"/>
+</map>

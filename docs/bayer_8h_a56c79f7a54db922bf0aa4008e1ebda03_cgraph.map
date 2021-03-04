@@ -1,0 +1,6 @@
+<map id="get_BayertoRGB" name="get_BayertoRGB">
+<area shape="rect" id="node1" title="Convert Bayer&#45;coded scalar image to a RGB color image \newinstance." alt="" coords="5,46,135,73"/>
+<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a091c508a646a5459c00aa2b5ac9ea5e5" title="Return the minimum between three values." alt="" coords="183,5,344,47"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#ac6d817f750ba83dd8f8b1b64aaaf8b19" title="Return square of a value." alt="" coords="183,71,344,112"/>
+<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#ad5459593e7f8a4066cb22ad63de8e92d" title="Return the minimum between four values." alt="" coords="392,5,553,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImgList::save_video" name="cimg_library_suffixed::CImgList::save_video">
+<area shape="rect" id="node1" title="Save image sequence, using the OpenCV library." alt="" coords="265,39,435,80"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#a7186fe44f8d6ce58583e3177ff802445" title="Save list into a file." alt="" coords="15,5,207,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a1bdca455737facbfa2ca6fd959a39cd4" title="Save volumetric image as a video, using the OpenCV library." alt="" coords="5,71,217,112"/>
+</map>

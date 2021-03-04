@@ -1,0 +1,11 @@
+<map id="cimg_library_suffixed::CImg::load_other" name="cimg_library_suffixed::CImg::load_other">
+<area shape="rect" id="node1" title="Load image using various non&#45;native ways." alt="" coords="267,247,428,288"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#aa54db2f4c7251f0b2ec7e27c55f035ad" title=" " alt="" coords="7,5,217,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#aaa44f102ce0bd97a01d128fe431c1bb2" title=" " alt="" coords="8,71,216,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a8cde6f74b600005d95497c4834a686b4" title=" " alt="" coords="10,136,214,177"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#afb4fb1ffbb040d62c1625addc6734fc1" title="Load image using various non&#45;native ways \newinstance." alt="" coords="31,202,193,258"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="29,283,195,324"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a0c1fe12517dfb17cd1130db2f9e78d29" title="Load image from a EXR file." alt="" coords="15,348,209,389"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg.html#afef1911ae374b6dc61cc2276407da523" title="Load image from a MINC2 file." alt="" coords="5,413,219,455"/>
+<area shape="rect" id="node9" href="$structcimg__library__suffixed_1_1CImg.html#ab87bf210c0e6bec7a6af7f1c0aec2a48" title="Load image from a TIFF file." alt="" coords="17,479,207,520"/>
+</map>

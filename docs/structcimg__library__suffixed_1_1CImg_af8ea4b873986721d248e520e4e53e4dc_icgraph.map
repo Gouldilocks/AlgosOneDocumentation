@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::CImg::tensor" name="cimg_library_suffixed::CImg::tensor">
+<area shape="rect" id="node1" title="Return a 1x1 symmetric matrix containing specified coefficients." alt="" coords="263,130,424,171"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a01ac1f2dc5b6ca1c3ebaee4be8b35326" title="Draw a filled 2D ellipse \overloading." alt="" coords="25,5,195,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a60f9518dd29e4f7f31a8bf44ad470140" title="Draw a 2D gaussian function." alt="" coords="25,85,195,141"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a0b8b15895c6d7bf28afb1878ee6cb122" title="Generate a 3D ellipsoid." alt="" coords="5,166,215,207"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a6aa672393f293f78973762d2fe0d8620" title="Get tensor&#45;valued pixel located at specified position." alt="" coords="29,232,191,288"/>
+</map>

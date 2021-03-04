@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::CImg::get_channels" name="cimg_library_suffixed::CImg::get_channels">
+<area shape="rect" id="node1" title="Return specified range of image channels." alt="" coords="249,119,411,160"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a0559ce95921b1f9a17d113e1dd130730" title="Return specified range of image channels \inplace." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#aabe3fa7029a992d81e29485ed6590210" title="Return specified image channel." alt="" coords="23,71,184,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a158d3e9bd97132548046647db70e0fc5" title=" " alt="" coords="23,151,184,207"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#acae5385f7b2692787b1c50fa1663e587" title="Split image into a list along specified axis." alt="" coords="6,232,201,273"/>
+</map>

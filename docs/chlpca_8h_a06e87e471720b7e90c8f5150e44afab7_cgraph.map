@@ -1,0 +1,4 @@
+<map id="get_patch_dictionnary" name="get_patch_dictionnary">
+<area shape="rect" id="node1" title="Extract a local patch dictionnary around point xi,yi,zi." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$chlpca_8h.html#aef5501adc515779834b5303323b7d4e8" title="Crop a patch in the image around position x,y,z and return a column vector." alt="" coords="220,5,307,32"/>
+</map>

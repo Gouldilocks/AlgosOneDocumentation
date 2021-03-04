@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,60,73"/>
+<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a1ead565c35064488c8a56fce858da674" title="Bitwise&#45;rotate value on the left." alt="" coords="108,5,269,47"/>
+<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a5f13deafde0dfee1c1350674f2ddb1df" title=" " alt="" coords="108,71,269,112"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#aa2bf8fb0d97c122cbc52e1f2e167e8a6" title="Sleep for a given numbers of milliseconds." alt="" coords="317,37,479,79"/>
+<area shape="rect" id="node6" href="$namespacecimg__library__suffixed_1_1cimg.html#a67e7c7cbeb79de5fc2f6a21afb06d413" title="Return the value of a system timer, with a millisecond precision." alt="" coords="317,103,479,144"/>
+<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#a79aef0cbcf66ceb71c2b74cb66b4deb2" title="Avoid warning messages due to unused parameters. Do nothing actually." alt="" coords="527,37,688,79"/>
+</map>
