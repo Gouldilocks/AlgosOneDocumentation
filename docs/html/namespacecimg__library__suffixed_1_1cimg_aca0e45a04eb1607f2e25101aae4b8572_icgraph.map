@@ -1,0 +1,10 @@
+<map id="cimg_library_suffixed::cimg::is_directory" name="cimg_library_suffixed::cimg::is_directory">
+<area shape="rect" id="node1" title="Check if a path is a directory." alt="" coords="1001,104,1163,145"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ac35f14b0a2ad7b9a7921a150c1056fd5" title=" " alt="" coords="749,5,953,47"/>
+<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#a9f8980f1308177adebab5f8f52a79835" title="Return list of files/directories in specified directory." alt="" coords="771,71,932,112"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#ad6c9ae2aaaf60bdecbd5c8f57ee5617e" title="Check if a path is a file." alt="" coords="771,136,932,177"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a16e8df87fc3bccc080d50522ee3d9906" title=" " alt="" coords="501,203,701,259"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#af6b7048a89c138fc86f548c088acab42" title=" " alt="" coords="501,123,701,179"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,163,453,219"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,163,205,219"/>
+</map>

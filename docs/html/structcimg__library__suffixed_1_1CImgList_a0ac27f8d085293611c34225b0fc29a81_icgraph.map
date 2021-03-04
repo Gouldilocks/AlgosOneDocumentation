@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImgList::load_yuv" name="cimg_library_suffixed::CImgList::load_yuv">
+<area shape="rect" id="node1" title="Load a list from a YUV image sequence file." alt="" coords="215,53,376,94"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ac57bf12c7a027b12a6df6b88aa6b7a2b" title="Load image sequence from a YUV file \newinstance." alt="" coords="5,5,167,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#a7ef2e8717b2624c864ec55ee6f1e5054" title="Load a list from a YUV image sequence file \newinstance." alt="" coords="5,85,167,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::CImg::_cimg_math_parser::self_vector_v" name="cimg_library_suffixed::CImg::_cimg_math_parser::self_vector_v">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,205,157"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#a84deef3a7cce5b08836947886ccdffac" title="Insert a copy of the image img into the current image list, at position pos." alt="" coords="273,5,434,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a679b1e1a7717fbb6be2352355e69f077" title="Transfer content of an image instance into another one." alt="" coords="273,71,434,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a7016b712e879cb786432898893a5f073" title=" " alt="" coords="253,137,453,193"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#aa06a140cdb6f7537ad898c54a5a35ba3" title="Return a 1x1 image containing specified value." alt="" coords="273,217,434,259"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a0a28f73055b3412094de285551d67e3e" title="Swap fields of two image instances." alt="" coords="501,144,663,185"/>
+</map>

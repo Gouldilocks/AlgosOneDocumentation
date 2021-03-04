@@ -1,0 +1,6 @@
+<map id="cimg_library_suffixed::CImgList::load_ffmpeg_external" name="cimg_library_suffixed::CImgList::load_ffmpeg_external">
+<area shape="rect" id="node1" title="Load an image from a video file using the external tool &#39;ffmpeg&#39;." alt="" coords="245,85,421,141"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a5b75a8084949dc540378cc62dddf8161" title="Load image sequence using FFMPEG&#39;s external tool &#39;ffmpeg&#39; \newinstance." alt="" coords="16,5,187,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#a9bdbb375959e220d994049785c42e9e1" title="Load an image from a video file using the external tool &#39;ffmpeg&#39; \newinstance." alt="" coords="5,85,197,141"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#a23a2c8ad55006cc12ef5316355e46ea0" title="Load an image from a video file, using OpenCV library." alt="" coords="21,165,182,221"/>
+</map>

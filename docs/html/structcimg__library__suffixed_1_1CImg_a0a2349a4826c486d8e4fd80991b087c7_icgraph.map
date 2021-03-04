@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::CImg::crop" name="cimg_library_suffixed::CImg::crop">
+<area shape="rect" id="node1" title="Crop image region." alt="" coords="248,119,409,161"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a18c8db4a4b657383cf86eb1ae7767f32" title=" " alt="" coords="19,5,186,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#aaf8720432f526c0e8860461f970c0e50" title="Autocrop image region, regarding the specified background value." alt="" coords="5,86,200,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a6df64af8e591e740616f1e6ca227abea" title="Crop image region \overloading." alt="" coords="19,151,186,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#ad8ca8eae0dbb8b4a6a8131ca1fef4bff" title="Return a C&#45;string containing a list of all values of the image instance." alt="" coords="15,217,190,273"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="cimg_library_suffixed::cimg::fseek" name="cimg_library_suffixed::cimg::fseek">
+<area shape="rect" id="node1" title="Version of &#39;fseek()&#39; that supports &gt;=64bits offsets everywhere (for Windows)." alt="" coords="1007,189,1168,230"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a01444df91267a5b4cb8105ac5886f12f" title=" " alt="" coords="767,5,941,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#aa54db2f4c7251f0b2ec7e27c55f035ad" title=" " alt="" coords="749,86,959,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ac35f14b0a2ad7b9a7921a150c1056fd5" title=" " alt="" coords="752,151,956,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImgList.html#acdbd0db44c3746e62fb05c914c4fbb1f" title=" " alt="" coords="773,217,935,273"/>
+<area shape="rect" id="node6" href="$namespacecimg__library__suffixed_1_1cimg.html#a63af61d735eb705dfeae46df8bf03184" title="Get file size." alt="" coords="773,298,935,339"/>
+<area shape="rect" id="node10" href="$namespacecimg__library__suffixed_1_1cimg.html#a90c05fe6fc049cba75f3a12807e97158" title="Load file from network as a local temporary file." alt="" coords="773,367,935,409"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#ae853e78f00e4fde511de36b826500df0" title=" " alt="" coords="501,287,701,343"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,287,453,343"/>
+<area shape="rect" id="node9" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,287,205,343"/>
+<area shape="rect" id="node11" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="518,367,685,409"/>
+<area shape="rect" id="node12" href="$structcimg__library__suffixed_1_1CImgList.html#a63bd67d8dd2301933df7decb4612916e" title="Load a list from a file." alt="" coords="507,433,696,474"/>
+</map>

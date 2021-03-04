@@ -1,0 +1,10 @@
+<map id="cimg_library_suffixed::CImg::get_invert" name="cimg_library_suffixed::CImg::get_invert">
+<area shape="rect" id="node1" title="Invert the instance image, viewed as a matrix \newinstance." alt="" coords="749,145,911,187"/>
+<area shape="rect" id="node2" href="$namespacecimg__library__suffixed.html#a5f3bbfa76a4bbd5f0d4eae9cc8beb32e" title=" " alt="" coords="521,93,682,135"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#ad71cfc07cb24c510b268266766007309" title=" " alt="" coords="501,174,701,230"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#ac07f7527b6223ed7b6c4e02f6feab7b3" title="Compute a 1D Fast Fourier Transform, along specified axis." alt="" coords="261,5,445,47"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImgList.html#aa026daaaa283e6bcc688a9bb42f16001" title="Compute a 1&#45;D Fast Fourier Transform, along specified axis \newinstance." alt="" coords="273,71,434,127"/>
+<area shape="rect" id="node5" href="$image2ascii_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="326,151,381,178"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,202,453,258"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,202,205,258"/>
+</map>

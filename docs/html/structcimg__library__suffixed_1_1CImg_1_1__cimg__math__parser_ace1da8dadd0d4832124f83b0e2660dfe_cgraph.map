@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::CImg::_cimg_math_parser::mp_vtos" name="cimg_library_suffixed::CImg::_cimg_math_parser::mp_vtos">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,205,185"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a82cf529dfcb37cbd01ad7f9bd76795d7" title="Construct empty image \inplace." alt="" coords="268,5,429,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a7be21c881dc4b1882fe90300d159ebb3" title="Return a shared&#45;memory image referencing a range of pixels of the image instance." alt="" coords="253,71,444,112"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#ad5459593e7f8a4066cb22ad63de8e92d" title="Return the minimum between four values." alt="" coords="268,136,429,177"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a679b1e1a7717fbb6be2352355e69f077" title="Transfer content of an image instance into another one." alt="" coords="268,201,429,243"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#ad8ca8eae0dbb8b4a6a8131ca1fef4bff" title="Return a C&#45;string containing a list of all values of the image instance." alt="" coords="268,267,429,308"/>
+</map>

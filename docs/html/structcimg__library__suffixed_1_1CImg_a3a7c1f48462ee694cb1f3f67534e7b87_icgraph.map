@@ -1,0 +1,4 @@
+<map id="cimg_library_suffixed::CImg::is_sameXYC" name="cimg_library_suffixed::CImg::is_sameXYC">
+<area shape="rect" id="node1" title="Test if image width, height and spectrum are equal to specified values." alt="" coords="271,5,432,47"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a79b3053a326fa993e5fc8142e2ad566c" title="Test if image width, height and spectrum are the same as that of another image." alt="" coords="5,5,223,47"/>
+</map>

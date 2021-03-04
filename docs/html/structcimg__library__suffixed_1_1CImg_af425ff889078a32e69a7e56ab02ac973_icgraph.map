@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::CImg::load_pnm" name="cimg_library_suffixed::CImg::load_pnm">
+<area shape="rect" id="node1" title="Load image from a PNM file." alt="" coords="247,159,408,201"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a35426d256f85fdfce509226bf0bf0374" title="Load image from a PNM file \newinstance." alt="" coords="21,5,183,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="19,86,185,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ae8ee2dbbc634767b37efabe0f0eb7104" title="Load image from a RAW Color Camera file, using external tool &#39;dcraw&#39;." alt="" coords="19,152,185,208"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a34578e61c66a0046835660bada43e3d6" title="Load image using GraphicsMagick&#39;s external tool &#39;gm&#39;." alt="" coords="5,232,199,288"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a8278afa0b313d0f3465ef91dabdac549" title="Load image using ImageMagick&#39;s external tool &#39;convert&#39;." alt="" coords="13,312,191,368"/>
+</map>

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['t_5fblack_5148',['t_black',['../namespacecimg__library__suffixed_1_1cimg.html#ab6b0a29c1bb19d521c07d0c358fcd630',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fblue_5149',['t_blue',['../namespacecimg__library__suffixed_1_1cimg.html#a56dbb01631e580897e76c00f1a157191',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fbold_5150',['t_bold',['../namespacecimg__library__suffixed_1_1cimg.html#a97105858deda52f9d407a0970cd04d50',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fcyan_5151',['t_cyan',['../namespacecimg__library__suffixed_1_1cimg.html#aa3b64102899199f405630a228a997de1',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fgreen_5152',['t_green',['../namespacecimg__library__suffixed_1_1cimg.html#a5307c22c2145453f3144204201f5af40',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fmagenta_5153',['t_magenta',['../namespacecimg__library__suffixed_1_1cimg.html#ac9676537eeae4a763961802c7697bac8',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fnormal_5154',['t_normal',['../namespacecimg__library__suffixed_1_1cimg.html#a4085388d65b8df6a48ab80e1d9433067',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fred_5155',['t_red',['../namespacecimg__library__suffixed_1_1cimg.html#a026c37ed02ac5fa31f8dbc063b954783',1,'cimg_library_suffixed::cimg']]],
+  ['t_5funderscore_5156',['t_underscore',['../namespacecimg__library__suffixed_1_1cimg.html#a9884d1ad480a98532c95e000e2d896d5',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fwhite_5157',['t_white',['../namespacecimg__library__suffixed_1_1cimg.html#a160712252dfe1930fe9cf1a66b3456b9',1,'cimg_library_suffixed::cimg']]],
+  ['t_5fyellow_5158',['t_yellow',['../namespacecimg__library__suffixed_1_1cimg.html#a86e4e47f6ac24dd49583732cee72a619',1,'cimg_library_suffixed::cimg']]],
+  ['take_5159',['take',['../Licence__CeCILL-C__V1-en_8txt.html#a5fb07a8669ecf4405f36a18f907dcab5',1,'take():&#160;Licence_CeCILL-C_V1-en.txt'],['../Licence__CeCILL__V2-en_8txt.html#a057b2cad8c6c170a3bc508fdf3f73268',1,'take():&#160;Licence_CeCILL_V2-en.txt']]],
+  ['text_5160',['text',['../Licence__CeCILL-C__V1-en_8txt.html#a1ddd4e91754bace80f034ac72e470193',1,'text():&#160;Licence_CeCILL-C_V1-en.txt'],['../Licence__CeCILL__V2-en_8txt.html#a1f89dc0bcd03b9e4cbd2299484658adf',1,'text():&#160;Licence_CeCILL_V2-en.txt']]],
+  ['that_5161',['that',['../Licence__CeCILL-C__V1-en_8txt.html#a12124ec5664934de3595fddb365afe76',1,'that():&#160;Licence_CeCILL-C_V1-en.txt'],['../Licence__CeCILL__V2-en_8txt.html#a9ba73e7acf4a4b12d15aa510e23e114a',1,'that():&#160;Licence_CeCILL_V2-en.txt']]],
+  ['therefore_5162',['Therefore',['../Licence__CeCILL-C__V1-en_8txt.html#ab6d7b56f5e7b283ccab3e60c9fea5c60',1,'Therefore():&#160;Licence_CeCILL-C_V1-en.txt'],['../Licence__CeCILL__V2-en_8txt.html#aee15358eba7bcce5156e4b93063cd85c',1,'Therefore():&#160;Licence_CeCILL_V2-en.txt']]],
+  ['transferred_5163',['transferred',['../Licence__CeCILL-C__V1-en_8txt.html#a1cea71ff74635de0d2cb11f5c4816779',1,'transferred():&#160;Licence_CeCILL-C_V1-en.txt'],['../Licence__CeCILL__V2-en_8txt.html#ad0d54b65c5014d2820032a3d3959854f',1,'transferred():&#160;Licence_CeCILL_V2-en.txt']]],
+  ['translate_5164',['translate',['../Licence__CeCILL-C__V1-en_8txt.html#a0a24a98cdcfab46a8bf5dc948f19871a',1,'translate():&#160;Licence_CeCILL-C_V1-en.txt'],['../Licence__CeCILL__V2-en_8txt.html#a73cb14a9aaa0efb1dea03abdd883cf74',1,'translate():&#160;Licence_CeCILL_V2-en.txt']]],
+  ['typesdict_5165',['typesDict',['../namespacepycimg.html#a895a2dc352e6479df743b2e9735fa4ab',1,'pycimg']]]
+];

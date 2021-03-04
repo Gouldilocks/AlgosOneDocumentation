@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::CImg::load" name="cimg_library_suffixed::CImg::load">
+<area shape="rect" id="node1" title="Load image from a file." alt="" coords="257,108,419,149"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ace4717820c707f84e8b8d082e318316b" title="Construct image from reading an image file \inplace." alt="" coords="17,5,197,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#af9d50f2ef766e7f7b7d5243c06ea0d1a" title="Load image from a file \newinstance." alt="" coords="10,71,205,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a1f1ef95d7faa4c2c7a72d3d347f30dad" title="Load gzipped image file, using external tool &#39;gunzip&#39;." alt="" coords="24,137,191,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a9de9f600cbcf0f7d865c33efb6cac895" title="Assign pixels values from a specified expression." alt="" coords="5,217,209,259"/>
+</map>

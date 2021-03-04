@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::is_object3d" name="cimg_library_suffixed::CImg::is_object3d">
+<area shape="rect" id="node1" title="Test if the set {*this,primitives,colors,opacities} defines a valid 3D object." alt="" coords="253,43,415,84"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a7cba468815b7ce868cc5119e89046420" title=" " alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a10b28cfe85047fcd3637bf2083586da6" title="Convert 3D object into a CImg3d representation \newinstance." alt="" coords="25,71,186,127"/>
+</map>

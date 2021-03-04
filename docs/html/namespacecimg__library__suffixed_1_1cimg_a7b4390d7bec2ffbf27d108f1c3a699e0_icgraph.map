@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::cimg::gunzip_path" name="cimg_library_suffixed::cimg::gunzip_path">
+<area shape="rect" id="node1" title="Get/set path to the gunzip binary." alt="" coords="457,93,619,134"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a1f1ef95d7faa4c2c7a72d3d347f30dad" title="Load gzipped image file, using external tool &#39;gunzip&#39;." alt="" coords="243,5,409,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#aae55e9a79bf2f7e08108dd200f63bf2c" title="Load a gzipped list, using external tool &#39;gunzip&#39;." alt="" coords="245,85,407,141"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#a90c05fe6fc049cba75f3a12807e97158" title="Load file from network as a local temporary file." alt="" coords="245,166,407,207"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="17,133,183,174"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImgList.html#a63bd67d8dd2301933df7decb4612916e" title="Load a list from a file." alt="" coords="5,198,195,239"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::elevation3d" name="cimg_library_suffixed::CImg::elevation3d">
+<area shape="rect" id="node1" title="Compute 3D elevation of a function as a 3D object." alt="" coords="268,43,429,84"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a43cd52ca5ecac381ff98e5e483f84815" title="Compute 3D elevation of a function, as a 3D object \overloading." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a6df02334b3342622e7439c27ec149456" title="Generate a 3D elevation of the image instance." alt="" coords="32,71,193,127"/>
+</map>

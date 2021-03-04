@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::CImg::get_slices" name="cimg_library_suffixed::CImg::get_slices">
+<area shape="rect" id="node1" title="Return specified range of image slices." alt="" coords="249,119,411,161"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a158d3e9bd97132548046647db70e0fc5" title=" " alt="" coords="23,5,184,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ae9f7b7bbb108917134f374391b08adc1" title="Return specified image slice." alt="" coords="5,86,201,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#acae5385f7b2692787b1c50fa1663e587" title="Split image into a list along specified axis." alt="" coords="6,151,201,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a51f543232e7e4885e14446b43eafb96d" title="Return specified range of image slices \inplace." alt="" coords="16,217,191,258"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="cimg_library_suffixed::CImg::get_transpose" name="cimg_library_suffixed::CImg::get_transpose">
+<area shape="rect" id="node1" title="Transpose the image, viewed as a matrix \newinstance." alt="" coords="752,213,916,254"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a4d0714efbea21ed5f469d21980acfac6" title="Convert CImg3d representation into a 3D object \newinstance." alt="" coords="522,5,683,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#adf1e31beb12d6352b0ffa30034982b20" title="Compute the Moore&#45;Penrose pseudo&#45;inverse of the instance image, viewed as a matrix \newinstance." alt="" coords="522,85,683,141"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a3dffc597ff9c370f441b0290b0fe0db2" title=" " alt="" coords="503,165,703,221"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a359e2a448202e88330273412e9cadf05" title=" " alt="" coords="503,245,703,301"/>
+<area shape="rect" id="node8" href="$namespacecimg__library__suffixed.html#a48465f36a81f510ce3368f0e0200532e" title=" " alt="" coords="522,326,683,367"/>
+<area shape="rect" id="node10" href="$structcimg__library__suffixed_1_1CImg.html#ad571a9ec5ca48ee4c22f45f27578e9b9" title="Transpose the image, viewed as a matrix." alt="" coords="501,391,704,433"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,205,453,261"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,205,205,261"/>
+<area shape="rect" id="node9" href="$curve__editor2d_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="326,333,381,360"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cimg_library_suffixed::CImg::save_pnm" name="cimg_library_suffixed::CImg::save_pnm">
+<area shape="rect" id="node1" title="Save image as a PNM file." alt="" coords="247,79,408,120"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#adb165b37ac226a1c73a96cb1b5827d2e" title="Save image as a file." alt="" coords="17,5,187,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a44f125968c20e8c7d833bf7d75c32db6" title="Save image using GraphicsMagick&#39;s external binary." alt="" coords="5,71,199,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#afbf8db949f62c8bd3f2f73ba3d9c1420" title="Save image using ImageMagick&#39;s external binary." alt="" coords="13,151,191,207"/>
+</map>

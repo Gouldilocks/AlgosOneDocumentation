@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::_linear_atX_p" name="cimg_library_suffixed::CImg::_linear_atX_p">
+<area shape="rect" id="node1" title=" " alt="" coords="272,39,433,80"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a7492ff3af8a30edeb88d2fcfb1ca55ca" title="Warp image content by a warping field \newinstance." alt="" coords="15,5,214,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ae5667ac7864d7a508e65e882b70c6c08" title="Return pixel value, using linear interpolation and periodic boundary conditions for the X&#45;coordinate." alt="" coords="5,71,224,112"/>
+</map>

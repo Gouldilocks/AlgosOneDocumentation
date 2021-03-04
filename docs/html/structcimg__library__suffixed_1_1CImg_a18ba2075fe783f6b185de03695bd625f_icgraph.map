@@ -1,0 +1,9 @@
+<map id="cimg_library_suffixed::CImg::rotation_matrix" name="cimg_library_suffixed::CImg::rotation_matrix">
+<area shape="rect" id="node1" title="Return a 3x3 rotation matrix from an { axis + angle } or a quaternion." alt="" coords="749,133,923,174"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a8b40db5a9818c3f961a90840b271de6c" title=" " alt="" coords="505,5,697,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a9c878d2a6b1bb2d23b3875a64801c9c3" title="Rotate volumetric image with arbitrary angle and axis \newinstance." alt="" coords="521,85,682,141"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ad2b43059435cf72803015202cd989dd9" title=" " alt="" coords="521,165,682,221"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#af0bedbcb173d06aa41f277ed3435f601" title=" " alt="" coords="501,245,701,301"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,245,453,301"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,245,205,301"/>
+</map>

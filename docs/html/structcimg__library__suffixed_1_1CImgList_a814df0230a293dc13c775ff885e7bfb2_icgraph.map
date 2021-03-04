@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImgList::save_yuv" name="cimg_library_suffixed::CImgList::save_yuv">
+<area shape="rect" id="node1" title="Save list as a YUV image sequence file." alt="" coords="253,39,415,80"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImgList.html#a7186fe44f8d6ce58583e3177ff802445" title="Save list into a file." alt="" coords="9,5,201,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a1b778d5d396d4cb692b62bdc3fe7ca94" title="Save image as a .yuv video file." alt="" coords="5,71,205,112"/>
+</map>

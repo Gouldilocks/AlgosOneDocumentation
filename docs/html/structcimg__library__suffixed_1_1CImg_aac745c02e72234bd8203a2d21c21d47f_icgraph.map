@@ -1,0 +1,6 @@
+<map id="cimg_library_suffixed::CImg::draw_arrow" name="cimg_library_suffixed::CImg::draw_arrow">
+<area shape="rect" id="node1" title="Draw a 2D arrow." alt="" coords="257,71,419,112"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ad9b7141242d0b6e861a8014112ddb5b5" title=" " alt="" coords="15,5,199,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a99fa2b0d12a8412f5bf42ad7ddaf3013" title="Draw a labeled horizontal axis." alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a6df87e6392200f8a295c2539f7c6cef0" title="Draw a 2D vector field, using a field of colors." alt="" coords="22,137,193,193"/>
+</map>

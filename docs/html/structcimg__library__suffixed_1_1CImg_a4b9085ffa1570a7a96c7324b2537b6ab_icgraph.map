@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::_linear_atXYZC" name="cimg_library_suffixed::CImg::_linear_atXYZC">
+<area shape="rect" id="node1" title=" " alt="" coords="228,53,399,94"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ab19d123867d5a2ed56fe1b016267bfe7" title="Blur image, with the joint bilateral filter." alt="" coords="11,5,174,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#adac52b4e5f218342b1555145507a111e" title="Return pixel value, using linear interpolation and Neumann boundary conditions for all X,..." alt="" coords="5,85,180,141"/>
+</map>

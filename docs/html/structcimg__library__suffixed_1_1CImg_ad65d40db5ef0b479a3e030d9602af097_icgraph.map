@@ -1,0 +1,5 @@
+<map id="cimg_library_suffixed::CImg::LabtoXYZ" name="cimg_library_suffixed::CImg::LabtoXYZ">
+<area shape="rect" id="node1" title="Convert pixel values from Lab to XYZ color spaces." alt="" coords="256,50,417,91"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a7d79e405f11095d300c316c02ae6bec2" title="Convert pixel values from Lab to XYZ color spaces \newinstance." alt="" coords="26,5,187,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#aacbc856c0a357b58c31e2d09e5626e68" title="Convert pixel values from Lab to RGB color spaces." alt="" coords="5,86,208,127"/>
+</map>

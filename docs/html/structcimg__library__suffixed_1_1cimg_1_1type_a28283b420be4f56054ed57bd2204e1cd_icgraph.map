@@ -1,0 +1,7 @@
+<map id="cimg_library_suffixed::cimg::type::string" name="cimg_library_suffixed::cimg::type::string">
+<area shape="rect" id="node1" title=" " alt="" coords="259,116,420,157"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#ac35f14b0a2ad7b9a7921a150c1056fd5" title=" " alt="" coords="6,5,210,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#af99c31c0d24c46734145e1910ca44323" title=" " alt="" coords="27,71,189,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ab5cb3e6f07f2cd894641aa6a26807c1e" title="Return the type of image pixel values as a C string." alt="" coords="5,152,211,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImgList.html#a55a11e1b7827dac9e38f29e1c4cfb3ec" title="Return the type of image pixel values as a C string." alt="" coords="27,218,189,274"/>
+</map>

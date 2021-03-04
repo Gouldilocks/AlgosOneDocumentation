@@ -1,0 +1,8 @@
+<map id="cimg_library_suffixed::CImg::_cimg_math_parser::check_constant" name="cimg_library_suffixed::CImg::_cimg_math_parser::check_constant">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,205,157"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a17a3c105772f6401fd631d0d82a59d65" title="Return a reference to the last pixel value." alt="" coords="273,5,434,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#ab5cb3e6f07f2cd894641aa6a26807c1e" title="Return the type of image pixel values as a C string." alt="" coords="273,71,434,112"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a13768ffc267dab37d664d33ffce7a2ea" title=" " alt="" coords="253,137,453,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a2576c21861d4f00e532fd4c562d07615" title=" " alt="" coords="253,217,453,273"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a1a6afc9cde7f9cdfa0d2711dd39f83b8" title="Return an image containing the character codes of specified string." alt="" coords="501,224,663,265"/>
+</map>

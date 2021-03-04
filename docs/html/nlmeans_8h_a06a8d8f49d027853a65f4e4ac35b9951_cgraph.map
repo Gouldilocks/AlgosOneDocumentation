@@ -1,0 +1,8 @@
+<map id="nlmeans" name="nlmeans">
+<area shape="rect" id="node1" title="NL&#45;Means denoising algorithm." alt="" coords="5,78,84,105"/>
+<area shape="rect" id="node2" href="$namespacecimg__library__suffixed_1_1cimg.html#a0852e9ad458e82d2c003844cd92bdb8a" title="Return absolute value of a value." alt="" coords="132,5,293,47"/>
+<area shape="rect" id="node3" href="$namespacecimg__library__suffixed_1_1cimg.html#aae5df5731fe5a367cec402071108c11c" title="Return the maximum between three values." alt="" coords="132,71,293,112"/>
+<area shape="rect" id="node5" href="$namespacecimg__library__suffixed_1_1cimg.html#a091c508a646a5459c00aa2b5ac9ea5e5" title="Return the minimum between three values." alt="" coords="132,136,293,177"/>
+<area shape="rect" id="node4" href="$namespacecimg__library__suffixed_1_1cimg.html#a4b4cabc621d732787bca13016ea8026a" title="Return the maximum between four values." alt="" coords="341,71,503,112"/>
+<area shape="rect" id="node6" href="$namespacecimg__library__suffixed_1_1cimg.html#ad5459593e7f8a4066cb22ad63de8e92d" title="Return the minimum between four values." alt="" coords="341,136,503,177"/>
+</map>

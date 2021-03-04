@@ -1,0 +1,27 @@
+<map id="cimg_library_suffixed::cimg::sqr" name="cimg_library_suffixed::cimg::sqr">
+<area shape="rect" id="node1" title="Return square of a value." alt="" coords="800,697,961,739"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a67bd442a7f2c58457cdaa82fe8cce57b" title="Correlate image by a kernel \newinstance." alt="" coords="525,5,728,47"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImg.html#a0a29c705cae699bec48cf91733c62f17" title=" " alt="" coords="538,71,715,127"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#a0d9e7ba99c06fd5425098300c5dcfde0" title=" " alt="" coords="527,152,727,193"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImg.html#a344c3e368862cff72ba25825415e9bbf" title=" " alt="" coords="538,218,715,274"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a5893b0822f6e0a8f3f3b5cdc045173eb" title=" " alt="" coords="538,299,715,340"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImg.html#a9dba06cca768819d3322fb8add6c37d3" title=" " alt="" coords="515,364,738,405"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a744852826b5da66db9f5fbf8727036d1" title=" " alt="" coords="253,1043,453,1099"/>
+<area shape="rect" id="node10" href="$structcimg__library__suffixed_1_1CImg.html#a1dfebf569b61d5345ab349ca1418a78a" title="Draw filled 3D region with the flood fill algorithm." alt="" coords="530,481,723,523"/>
+<area shape="rect" id="node11" href="$structcimg__library__suffixed_1_1CImg.html#adbf6146771336af8f5477c89d9124941" title="Compute eigenvalues and eigenvectors of the instance image, viewed as a matrix." alt="" coords="539,547,714,588"/>
+<area shape="rect" id="node12" href="$bayer_8h.html#a56c79f7a54db922bf0aa4008e1ebda03" title="Convert Bayer&#45;coded scalar image to a RGB color image \newinstance." alt="" coords="562,430,691,457"/>
+<area shape="rect" id="node14" href="$structcimg__library__suffixed_1_1CImg.html#a3787f8eb2c642164a3fb1f2b93c9dcc5" title="Index multi&#45;valued pixels regarding to a specified colormap \newinstance." alt="" coords="525,664,728,705"/>
+<area shape="rect" id="node15" href="$structcimg__library__suffixed_1_1CImg.html#a4c8c93e2b41e9b3f973cb1130af80cc9" title="Compute L2&#45;norm of each multi&#45;valued pixel of the image instance \newinstance." alt="" coords="527,729,727,771"/>
+<area shape="rect" id="node16" href="$structcimg__library__suffixed_1_1CImg.html#a4bd477635f52607b2af411b6c24de8a0" title=" " alt="" coords="546,795,707,851"/>
+<area shape="rect" id="node17" href="$inpaint_8h.html#ae4732c9e0cf72c8eb420d1f3c4bd766a" title=" " alt="" coords="571,875,682,902"/>
+<area shape="rect" id="node18" href="$structcimg__library__suffixed_1_1CImg.html#ab5aa5a3191d2e8e631edf629a8fde719" title="Compute norm of the image, viewed as a matrix." alt="" coords="523,927,731,968"/>
+<area shape="rect" id="node19" href="$gaussian__fit1d_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="599,993,654,1019"/>
+<area shape="rect" id="node20" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#aa468e9f75b463a6b71521143b36b0e6c" title=" " alt="" coords="527,1123,727,1179"/>
+<area shape="rect" id="node21" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#ac3d7052ea16cc399a83323852d5d0e68" title=" " alt="" coords="527,1043,727,1099"/>
+<area shape="rect" id="node22" href="$structcimg__library__suffixed_1_1CImg.html#acf91acd5fba09e7ecc3bb708b0a0b8dd" title="Normalize multi&#45;valued pixels of the image instance, with respect to their L2&#45;norm." alt="" coords="525,1204,728,1245"/>
+<area shape="rect" id="node23" href="$structcimg__library__suffixed_1_1CImg.html#a56a46a3c08972775c5c2451f178be1a6" title="Raise each pixel value to a specified power." alt="" coords="544,1269,709,1311"/>
+<area shape="rect" id="node24" href="$structcimg__library__suffixed_1_1CImg.html#a8025573f639ba766ca2270bf10c2d00f" title="Generate a 3D sphere." alt="" coords="527,1335,726,1376"/>
+<area shape="rect" id="node25" href="$structcimg__library__suffixed_1_1CImg.html#a53284105886c5eb684b26e7dba5ede66" title="Compute eigenvalues and eigenvectors of the instance image, viewed as a symmetric matrix." alt="" coords="501,1400,752,1441"/>
+<area shape="rect" id="node9" href="$structcimg__library__suffixed_1_1CImg_1_1__cimg__math__parser.html#a591684f81af8ba85885b7de9c0c6ca5f" title=" " alt="" coords="5,1043,205,1099"/>
+<area shape="rect" id="node13" href="$bayer_8h.html#a4d532472a01bafd5a972391870fbdcab" title="Convert Bayer&#45;coded scalar image to a RGB color image." alt="" coords="303,430,404,457"/>
+</map>

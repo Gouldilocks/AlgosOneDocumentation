@@ -1,0 +1,22 @@
+<map id="cimg_library_suffixed::cimg::split_filename" name="cimg_library_suffixed::cimg::split_filename">
+<area shape="rect" id="node1" title="Split filename into two C&#45;strings body and extension." alt="" coords="477,621,640,662"/>
+<area shape="rect" id="node2" href="$structcimg__library__suffixed_1_1CImg.html#a01444df91267a5b4cb8105ac5886f12f" title=" " alt="" coords="251,5,424,61"/>
+<area shape="rect" id="node3" href="$structcimg__library__suffixed_1_1CImgList.html#ae6a86adfeb4cdeb99f58565a6a49784b" title="Tell if an image list can be saved as one single file." alt="" coords="257,85,418,141"/>
+<area shape="rect" id="node4" href="$structcimg__library__suffixed_1_1CImg.html#ae8353b28bfbc5c4421c7adfbb98fe32f" title="Load image from a file." alt="" coords="18,171,185,213"/>
+<area shape="rect" id="node5" href="$structcimg__library__suffixed_1_1CImgList.html#a63bd67d8dd2301933df7decb4612916e" title="Load a list from a file." alt="" coords="7,262,196,303"/>
+<area shape="rect" id="node6" href="$structcimg__library__suffixed_1_1CImg.html#a1f1ef95d7faa4c2c7a72d3d347f30dad" title="Load gzipped image file, using external tool &#39;gunzip&#39;." alt="" coords="254,333,421,389"/>
+<area shape="rect" id="node7" href="$structcimg__library__suffixed_1_1CImgList.html#aae55e9a79bf2f7e08108dd200f63bf2c" title="Load a gzipped list, using external tool &#39;gunzip&#39;." alt="" coords="257,413,418,469"/>
+<area shape="rect" id="node8" href="$structcimg__library__suffixed_1_1CImg.html#a8278afa0b313d0f3465ef91dabdac549" title="Load image using ImageMagick&#39;s external tool &#39;convert&#39;." alt="" coords="248,493,427,549"/>
+<area shape="rect" id="node9" href="$structcimg__library__suffixed_1_1CImg.html#a8306218d5edf273c822113b799fd89cc" title="Load image from a DICOM file, using XMedcon&#39;s external tool &#39;medcon&#39;." alt="" coords="254,573,421,629"/>
+<area shape="rect" id="node10" href="$namespacecimg__library__suffixed_1_1cimg.html#a90c05fe6fc049cba75f3a12807e97158" title="Load file from network as a local temporary file." alt="" coords="257,217,418,258"/>
+<area shape="rect" id="node11" href="$structcimg__library__suffixed_1_1CImgList.html#affbfd21835dfd5c00fe98cc71c7760c2" title="Load a list from a PAR/REC (Philips) file." alt="" coords="257,653,418,709"/>
+<area shape="rect" id="node12" href="$namespacecimg__library__suffixed_1_1cimg.html#ae9bdf968dd4f20fdc7542e3b3089c495" title="Generate a numbered version of a filename." alt="" coords="245,835,429,877"/>
+<area shape="rect" id="node13" href="$structcimg__library__suffixed_1_1CImg.html#adb165b37ac226a1c73a96cb1b5827d2e" title="Save image as a file." alt="" coords="17,711,186,753"/>
+<area shape="rect" id="node14" href="$structcimg__library__suffixed_1_1CImgList.html#a7186fe44f8d6ce58583e3177ff802445" title="Save list into a file." alt="" coords="5,777,197,818"/>
+<area shape="rect" id="node15" href="$structcimg__library__suffixed_1_1CImgList.html#aad5afe8b913e276dd281255dd787b4ba" title="Save list as a gzipped file, using external tool &#39;gzip&#39;." alt="" coords="21,923,182,979"/>
+<area shape="rect" id="node17" href="$structcimg__library__suffixed_1_1CImg.html#a09711118d3b31870942e99adbefffed1" title="Save image as an ANALYZE7.5 or NIFTI file." alt="" coords="253,952,422,1008"/>
+<area shape="rect" id="node18" href="$structcimg__library__suffixed_1_1CImgList.html#af09a45345581747984f4df0607418f2c" title="Save image sequence, using the external tool &#39;ffmpeg&#39;." alt="" coords="254,1032,421,1088"/>
+<area shape="rect" id="node19" href="$structcimg__library__suffixed_1_1CImg.html#a53983bb4f1ebe2a817b68029b8c04cb1" title="Save image using gzip external binary." alt="" coords="253,1112,422,1168"/>
+<area shape="rect" id="node20" href="$structcimg__library__suffixed_1_1CImg.html#a30d02c3d77fc43c8b5845e92268cdab5" title="Save image as a Dicom file." alt="" coords="253,1192,422,1248"/>
+<area shape="rect" id="node16" href="$structcimg__library__suffixed_1_1CImgList.html#a62700a17bb0af63522c732b9d1a15325" title="Save list as a TIFF file." alt="" coords="21,843,182,899"/>
+</map>
