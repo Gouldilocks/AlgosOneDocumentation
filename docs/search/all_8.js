@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['h_48',['h',['../classpicture.html#a407d575bcb01d1f3df341657fc9e163c',1,'picture']]],
-  ['height_49',['height',['../classimageManager.html#a338f271013407ac9325ef2501c0c8605',1,'imageManager::height()'],['../classpicture.html#ace8bf42953bb9736f600af48292ca170',1,'picture::height()']]],
-  ['heuristicone_50',['heuristicOne',['../classwallFiller.html#a937004e3cf0f7472615faa069b9942e1',1,'wallFiller']]],
-  ['heuristictwo_51',['heuristicTwo',['../classwallFiller.html#a58e7f0e949c72be00e61e9da9810a8de',1,'wallFiller']]]
+  ['imagemanager_52',['imageManager',['../classimageManager.html',1,'imageManager'],['../classimageManager.html#ac1d1db2889da905fe39e92f575f58fc3',1,'imageManager::imageManager()'],['../classimageManager.html#aa9f8c00b9c3ecc9321cc6629993fd025',1,'imageManager::imageManager(const imageManager &amp;k)'],['../classimageManager.html#a753b7b52b08f3200b16fd2d82bad7161',1,'imageManager::imageManager(int wallWidth, int wallHeight)']]],
+  ['imagemanager_2ecpp_53',['imageManager.cpp',['../imageManager_8cpp.html',1,'']]],
+  ['imagemanager_2eh_54',['imageManager.h',['../imageManager_8h.html',1,'']]]
 ];

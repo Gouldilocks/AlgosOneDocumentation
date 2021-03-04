@@ -25,7 +25,11 @@
 var NAVTREE =
 [
   [ "Algorithms Project 01, Team Camaro", "index.html", [
-    [ "21s-pa01-camaro", "md_README.html", null ],
+    [ "CS 3353 Project 1", "md_README.html", [
+      [ "Clone Repository", "md_README.html#autotoc_md2", null ],
+      [ "Command Line Arguments", "md_README.html#autotoc_md3", null ],
+      [ "Algorithms Implemented", "md_README.html#autotoc_md4", null ]
+    ] ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],

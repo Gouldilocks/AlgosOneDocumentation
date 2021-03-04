@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.18"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Algorithms Project 01, Team Camaro: 21s-pa01-camaro</title>
+<title>Algorithms Project 01, Team Camaro: CS 3353 Project 1</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -92,11 +92,29 @@ $(document).ready(function(){initNavTree('md_README.html',''); initResizable(); 
 
 <div class="PageDoc"><div class="header">
   <div class="headertitle">
-<div class="title">21s-pa01-camaro </div>  </div>
+<div class="title">CS 3353 Project 1 </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>21s-pa01-camaro created by GitHub Classroom</p>
-<p><a href="https://gouldilocks.github.io/AlgosOneDocumentation/annotated.html" title="Documentation">Check out our Doxygen Documentation!</a> </p>
+<div class="textblock"><h4><a class="anchor" id="autotoc_md1"></a>
+21s-pa01-camaro created by GitHub Classroom</h4>
+<p><a href="https://gouldilocks.github.io/AlgosOneDocumentation/annotated.html" title="Documentation">Check out our Doxygen Documentation!</a></p>
+<p><b>Authors</b>: <a href="https://github.com/Gouldilocks">Christian Gould</a>, <a href="https://github.com/ashrajesh">Ashwin Rajesh</a></p>
+<p><b>Overview</b>: In this project, we explore how we can apply algorithms to address the hypothetical problem of organizing images to fit on a wall of fixed dimension.</p>
+<h1><a class="anchor" id="autotoc_md2"></a>
+Clone Repository</h1>
+<div class="fragment"><div class="line">gh repo clone smu-cs-3353/21s-pa01-camaro</div>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md3"></a>
+Command Line Arguments</h1>
+<p>The program takes in 5 arguments with the first being a directory path (string) and the remaining being pixel dimensions (integer). Argument Format: </p><div class="fragment"><div class="line">&quot;PATH_TO_IMAGE_FOLDER&quot; &quot;WALL_ONE_WIDTH&quot; &quot;WALL_ONE_HEIGHT&quot; &quot;WALL_TWO_WIDTH&quot; &quot;WALL_TWO_HEIGHT&quot;</div>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md4"></a>
+Algorithms Implemented</h1>
+<p>Our algorithm uses a "spiral" like strategy to place images, filling the outside edges first before working towards the middle.</p><ul>
+<li><em>Expensive First</em> - Inserts the most expensive images first onto the wall</li>
+<li><em>Smallest First</em> - Inserts the smallest images onto the wall first</li>
+<li><em>Heuristic</em> - Uses weightings and other algorithmic evaluations to prioritize the insertion of certain images before others</li>
+</ul>
+<p><b>Sample Output:</b></p>
+<p><img src="heuristicWallOne.jpeg" alt="Heuristic Wall" class="inline"/> </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

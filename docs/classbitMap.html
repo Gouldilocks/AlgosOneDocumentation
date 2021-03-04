@@ -189,6 +189,7 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>default constructor initializes everything to 0 </p>
 
 </div>
 </div>
@@ -217,6 +218,13 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>copy constructor </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>- x dimension of <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (Width) </td></tr>
+    <tr><td class="paramname">y</td><td>- y dimension of <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (Height) </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -242,6 +250,7 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Default destructor (no dynamic allocation of memory) </p>
 
 </div>
 </div>
@@ -277,6 +286,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Algorithm requests to fill bitmap with image at coordinates given</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x_start</td><td>- x coordinate of starting corner for image </td></tr>
+    <tr><td class="paramname">y_start</td><td>- y coordinate of starting corner for image </td></tr>
+    <tr><td class="paramname">pic</td><td>- pass in picture object by reference </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -304,6 +322,7 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Find number of remaining empty pixels </p><dl class="section return"><dt>Returns</dt><dd>integer of the number of free spaces in <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> </dd></dl>
 
 </div>
 </div>
@@ -321,6 +340,8 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>In case an algorithm needs to know the dimensions of free spaces or filled positions (use the returned vector to analyze)</p>
+<dl class="section return"><dt>Returns</dt><dd>- bitVector of the <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> </dd></dl>
 
 </div>
 </div>
@@ -338,6 +359,8 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Find total value of images on <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a></p>
+<dl class="section return"><dt>Returns</dt><dd>integer representing total value of images inserted </dd></dl>
 
 </div>
 </div>
@@ -357,6 +380,8 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 
 <p>METADATA ///. </p>
+<p>Find the width of the <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (pixels)</p>
+<dl class="section return"><dt>Returns</dt><dd>integer representing x dimension of <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (Width) </dd></dl>
 
 </div>
 </div>
@@ -374,6 +399,8 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Find the height of the <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (pixels)</p>
+<dl class="section return"><dt>Returns</dt><dd>integer representing y dimension of <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (Height) </dd></dl>
 
 </div>
 </div>
@@ -402,6 +429,14 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>shifts position of image horizontally</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">shift</td><td>- number of pixels to shift by </td></tr>
+    <tr><td class="paramname">pic</td><td>- pass picture you intend to shift by reference </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -442,6 +477,14 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>shifts position of image vertically</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">shift</td><td>- number of pixels to shift by </td></tr>
+    <tr><td class="paramname">pic</td><td>- pass picture you intend to shift by reference </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -472,6 +515,7 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>assignment operator operator will copy each element from copy and assign to this </p><dl class="section return"><dt>Returns</dt><dd>*this </dd></dl>
 
 </div>
 </div>
@@ -497,6 +541,7 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>initializes <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> state to empty for all pixels </p>
 
 </div>
 </div>
@@ -525,6 +570,14 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Checks whether position at given coordinate is taken or empty returns false if position is empty, true if position taken </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x_coordinate</td><td>- x position of pixel on <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> </td></tr>
+    <tr><td class="paramname">y_coordinate</td><td>- y position of pixel on <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>- true if taken, false if empty </dd></dl>
 
 </div>
 </div>
@@ -542,6 +595,7 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>outputs <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> contents in outputFile </p>
 
 </div>
 </div>
@@ -560,6 +614,12 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Reset the x dimension of <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (Width) </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>- the new width passed into function </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -578,6 +638,12 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Reset the y dimension of <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a> (Height) </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">y</td><td>- the new width passed into function </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -618,6 +684,17 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>check whether given space is empty (returns true if empty)</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x_start</td><td>- starting x coordinate of desired space </td></tr>
+    <tr><td class="paramname">y_start</td><td>- starting y coordinate of desired space </td></tr>
+    <tr><td class="paramname">x_end</td><td>- ending x coordinate of desired space </td></tr>
+    <tr><td class="paramname">y_end</td><td>- ending y coordinate of desired space </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>- true if empty, false if taken </dd></dl>
 
 </div>
 </div>
@@ -635,6 +712,8 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Find total number of images inserted onto <a class="el" href="classbitMap.html" title="wall-space manager">bitMap</a></p>
+<dl class="section return"><dt>Returns</dt><dd>integer of the total number of images inserted </dd></dl>
 
 </div>
 </div>
@@ -658,6 +737,7 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>contains our 2d array of booleans, represented by 10x10 pixel squares (always divide function parameters by 10) </p>
 
 </div>
 </div>
@@ -680,6 +760,7 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>vector of all the pictures currently on the wall </p>
 
 </div>
 </div>
@@ -702,6 +783,7 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>x component of wall </p>
 
 </div>
 </div>
@@ -724,6 +806,7 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>y component of wall </p>
 
 </div>
 </div>
