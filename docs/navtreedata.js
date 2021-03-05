@@ -26,9 +26,22 @@ var NAVTREE =
 [
   [ "Algorithms Project 01, Team Camaro", "index.html", [
     [ "CS 3353 Project 1", "md_README.html", [
-      [ "Clone Repository", "md_README.html#autotoc_md2", null ],
-      [ "Command Line Arguments", "md_README.html#autotoc_md3", null ],
-      [ "Algorithms Implemented", "md_README.html#autotoc_md4", null ]
+      [ "External Libraries Used:", "md_README.html#autotoc_md1", [
+        [ "CImg:", "md_README.html#autotoc_md2", null ],
+        [ "Dirent:", "md_README.html#autotoc_md4", null ],
+        [ "Catch:", "md_README.html#autotoc_md5", null ]
+      ] ],
+      [ "Clone Repository", "md_README.html#autotoc_md6", null ],
+      [ "Command Line Arguments", "md_README.html#autotoc_md7", null ],
+      [ "Output", "md_README.html#autotoc_md8", [
+        [ "Six .jpeg files which represent all of the walls. There are 2 walls per algorithm, and the names will be as follows:", "md_README.html#autotoc_md9", [
+          [ "For the Smallest First Algorithm:", "md_README.html#autotoc_md10", null ],
+          [ "For the Expensive First algorithm:", "md_README.html#autotoc_md11", null ],
+          [ "For the Heuristic First Algorithm:", "md_README.html#autotoc_md12", null ]
+        ] ],
+        [ "One .txt file which will show all the properties of each of the walls", "md_README.html#autotoc_md13", null ]
+      ] ],
+      [ "Algorithms Implemented", "md_README.html#autotoc_md14", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
